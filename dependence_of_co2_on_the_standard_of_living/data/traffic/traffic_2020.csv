@@ -1,0 +1,229 @@
+City;Traffic Index;Time Index;Time Exp. Index;Inefficiency Index;CO2�Emission Index
+Zurich, Switzerland;106.5;34.4;471.7;95.6;1652.6
+Zagreb, Croatia;122.9;33.2;339.5;119.7;3641.5
+Yerevan, Armenia;114;31.1;168.2;92.8;3632.8
+Yekaterinburg, Russia;147.1;38;1110.9;158.6;3986.4
+Wroclaw, Poland;116.1;33.3;351.8;118;2822
+Winnipeg, Canada;132.1;32;228;130.7;5419.3
+Wellington, New Zealand;93;27.7;42.2;74.5;2514.9
+Washington, DC, United States;196.7;42;2243.9;242.6;8428.2
+Warsaw, Poland;126.5;35.2;586.8;113.4;3188.2
+Vilnius, Lithuania;97;27.8;44.4;75.4;2893.7
+Vienna, Austria;78.8;26.5;29.8;54.9;1549.7
+Victoria, Canada;120.5;29.2;80.3;144.5;4944.8
+Varna, Bulgaria;87.7;27.4;38.4;76;2061.6
+Vancouver, Canada;152.1;37.1;914.4;157.8;5211.4
+Turin, Italy;111.9;29.5;87.7;105.3;3939.5
+Tucson, AZ, United States;131.4;29.5;89.2;134;6542.7
+Toronto, Canada;201;44.7;3341.8;250.8;6834
+Tokyo, Japan;123.7;39.8;1553.2;120.3;1125.3
+Timisoara, Romania;86.9;24.7;24.7;112.6;2172.9
+Thessaloniki, Greece;105.9;27.1;34.7;114.4;3866
+The Hague (Den Haag), Netherlands;122.8;33;314.9;204.1;3345.8
+Tel Aviv-Yafo, Israel;156.1;36.8;865.3;167.2;5920.5
+Tehran, Iran;254.1;53.1;8717.3;270;8314.5
+Tbilisi, Georgia;138.7;38.4;1188.1;163.4;2816.1
+Tampa, FL, United States;173.2;35.8;686.1;203.6;9387.4
+Tallinn, Estonia;92.4;26.6;30;119.6;2441.2
+Taipei, Taiwan;115.5;33.6;376;111.8;2700.6
+Sydney, Australia;188.1;42.7;2513.7;290.3;6111.6
+Stuttgart, Germany;127.1;35.5;639.1;165.4;2851.7
+Stockholm, Sweden;127.9;37.6;1008.8;134.6;2207.4
+Spokane, WA, United States;115.1;24;24;106.7;5750.4
+Sofia, Bulgaria;112.9;31.4;184.8;101.3;3346.5
+Skopje, North Macedonia;99.5;28.6;61.2;114.8;2744
+Singapore, Singapore;148.6;41.3;2016.1;150.6;2513
+Shenzhen, China;123.4;36.8;860.6;98.6;2240
+Sharjah, United Arab Emirates;266.6;51.8;7642.9;301;12104
+Shanghai, China;192.1;48.1;5161.9;211.4;3317.9
+Seoul, South Korea;154.2;41.6;2131.7;164.5;2871.9
+Seattle, WA, United States;193.9;42.2;2313.5;253;7689.8
+Sarajevo, Bosnia And Herzegovina;104.2;28.7;63.1;83.8;3411.2
+Sao Paulo, Brazil;238;51.5;7454.6;248.1;7126.2
+Santiago, Chile;138.1;37;902.9;124.9;3576.3
+San Jose, CA, United States;182.8;38.1;1136.5;213.3;9275.8
+San Francisco, CA, United States;242.9;49.7;6169;479.2;8596.8
+San Diego, CA, United States;156.6;33.6;383.4;205.4;7937.6
+San Antonio, TX, United States;140.8;31.5;196.7;173.6;6731.7
+Salt Lake City, UT, United States;150.5;33.9;418.8;184.6;6810.2
+Saint Petersburg, Russia;205.6;47.9;5021.6;198.8;5293.6
+Saint Louis, MO, United States;126.5;26.9;33.1;161.5;6577.8
+Sacramento, CA, United States;124.4;26.6;30.5;127.3;6547.6
+Rotterdam, Netherlands;103.6;28.4;55.3;135.3;3152.4
+Rome, Italy;182.5;42.9;2604.9;187.9;5598.7
+Riyadh, Saudi Arabia;141.4;30.1;115.5;189.3;7528.4
+Rio de Janeiro, Brazil;235.9;52.4;8183.1;246.1;5977.6
+Riga, Latvia;128.8;33.9;411.3;137.8;3962.7
+Reykjavik, Iceland;92.8;20.3;20.3;83.2;3456.7
+Regina, Canada;88.5;17.2;17.2;57.2;3553.7
+Recife, Brazil;206.1;46.9;4452.9;226.3;5996.2
+Raleigh, NC, United States;150.7;32.4;264;162;7968.4
+Quito, Ecuador;178.9;40.6;1804.6;163.9;6877.8
+Quebec City, Canada;109.7;28.6;60.6;98.7;4018.9
+Pune, India;189.5;44.1;3063.2;205.4;5739.1
+Pretoria, South Africa;231.5;45.5;3726.2;317.3;11478.7
+Prague, Czech Republic;102.2;32.5;271.4;80;1958.8
+Poznan, Poland;99.6;31;163.8;61.3;2298.8
+Porto, Portugal;113.7;29;72.3;125.3;4224.3
+Porto Alegre, Brazil;127.2;32.3;251.5;121.2;4637.2
+Portland, OR, United States;148.8;33.4;357;161.6;7030.4
+Port Elizabeth, South Africa;137.5;30.8;147.5;165;6687.5
+Pittsburgh, PA, United States;176.3;38.3;1176.1;208.4;7973.7
+Phoenix, AZ, United States;148.9;32.2;243.8;163.6;7804
+Philadelphia, PA, United States;184.9;40;1613.8;274.1;7768.7
+Perth, Australia;160.6;36.9;878.9;178.5;6509.1
+Paris, France;156.8;42.6;2465.1;148.9;2741.2
+Panama City, Panama;161.2;35;554.5;184.8;7941
+Ottawa, Canada;120.9;32.2;246.6;115.1;3879.8
+Oslo, Norway;115.1;32.5;272.4;148.1;2912.5
+Orlando, FL, United States;180.4;37.1;906.1;214.2;9725.9
+Odessa (Odesa), Ukraine;146.1;35.7;658.6;139.9;5326.3
+Oakland, CA, United States;166.7;38;1096.6;234.5;6445.2
+Novosibirsk, Russia;175.3;41.1;1940.7;190.6;5837.6
+Novi Sad, Serbia;74.8;16.4;16.4;83.6;2047.4
+Nizhny Novgorod, Russia;102.5;28.9;69.3;121.7;2943.8
+Nicosia, Cyprus;114.3;26.2;27.6;127.9;5125.8
+New York, NY, United States;161.4;43;2630.5;191;2840.1
+Nashville, TN, United States;181.7;38.1;1135.7;210.7;9097.6
+Nairobi, Kenya;276.6;56.9;12333.2;299.7;8343.5
+Muscat, Oman;115.2;21;21;225.6;5562.4
+Munich, Germany;111.4;33.5;373.7;118.9;2265.3
+Mumbai, India;264.6;56.1;11466.7;276.2;7197.2
+Moscow, Russia;228.7;52.6;8332.4;235.9;4813.7
+Montreal, Canada;163.1;39.8;1546;173.6;5021.6
+Montevideo, Uruguay;153.4;40.1;1646.5;159;3609.7
+Monterrey, Mexico;130.4;31.3;179.1;124;5564.9
+Mississauga, Canada;153.2;36.5;809.4;180.3;5587.4
+Minsk, Belarus;115.8;30.9;155.1;108.5;3844
+Minneapolis, MN, United States;166.4;36.7;841.9;216.9;7385.8
+Milwaukee, WI, United States;133.9;29.2;79.4;161.7;6901.3
+Milan, Italy;133.7;36.8;853.7;129.6;3171.5
+Miami, FL, United States;215.1;43.3;2740.2;239.1;10806.6
+Mexico City, Mexico;250.9;51.1;7135.5;347.5;9343.5
+Memphis, TN, United States;118.2;23.6;23.6;114.7;6256.3
+Melbourne, Australia;174.1;40.2;1659.9;197.3;6262.2
+Medellin, Colombia;158.3;38.3;1170.1;182.7;5223.2
+Manila, Philippines;262.6;55.3;10721.6;283.3;7557.4
+Mangalore, India;119.9;32.1;241.5;147.7;3605.2
+Manchester, United Kingdom;165.5;40.7;1828.9;178.7;4714.4
+Madrid, Spain;137.8;35.3;600;137.3;4394.9
+Madison, WI, United States;110;23.7;23.7;115.6;4997.8
+Lviv, Ukraine;117.1;33.8;406;109.4;2768.6
+Luxembourg, Luxembourg;129.1;33.7;386.9;129.7;4142.2
+Los Angeles, CA, United States;332;59.5;15145.5;768.8;14816.9
+London, United Kingdom;164.9;45.3;3613;197;2070.2
+Ljubljana, Slovenia;106.6;28;48.3;147.9;3540.2
+Lisbon, Portugal;142.1;36.4;777.2;150.2;4304.3
+Limassol, Cyprus;92.4;19.2;19.2;111.6;3399.1
+Lima, Peru;225.4;49.7;6178;273.6;6480.8
+Las Vegas, NV, United States;126.1;26.8;31.8;146.5;6650
+Lahore, Pakistan;148.1;35.4;623.3;168.6;5574.1
+Lagos, Nigeria;344.9;66.4;24883.4;577.8;9364.8
+Kuwait City, Kuwait;148.5;32.9;312.3;161.3;7262.5
+Kuala Lumpur, Malaysia;197.8;42.2;2336.8;211.3;8584.4
+Krakow (Cracow), Poland;104.4;31.3;181.6;82.2;2557.7
+Kolkata, India;273.6;60.1;15945.4;293;4908.7
+Kiev (Kyiv), Ukraine;175.7;43;2641.7;154.9;4742.3
+Kharkiv, Ukraine;136;38.2;1141;113.2;2848.9
+Kelowna, Canada;113.1;29.4;84.5;164.7;3806.1
+Karachi, Pakistan;181;41.6;2121.6;193.7;6306.7
+Kansas City, MO, United States;125.8;26.2;27.7;121.2;6947.3
+Johannesburg, South Africa;201.3;40.8;1838.1;248.4;10388.7
+Jeddah (Jiddah), Saudi Arabia;136.8;29.7;94.9;161.7;7166.3
+Jakarta, Indonesia;253.3;52.6;8303.6;291.1;8559.3
+Jacksonville, FL, United States;163.7;33.9;419.9;208.5;8984.9
+Izmir, Turkey;153.8;38.5;1212.9;185.6;4474.7
+Istanbul, Turkey;245.7;52.2;8005.6;255.6;7740.3
+Islamabad, Pakistan;160.5;35.7;657.1;217.2;7139.3
+Indianapolis, IN, United States;135.3;29.4;85.5;183.4;6909.5
+Hyderabad, India;187.4;43.7;2908.9;212.2;5651.2
+Houston, TX, United States;203.8;41.4;2054.1;239.9;10318.8
+Honolulu, HI, United States;203.4;41.4;2063;221;10344.4
+Hong Kong, Hong Kong (China);139.5;41.5;2068;145.7;1640.1
+Ho Chi Minh City, Vietnam;117.2;31.7;204.7;128.6;3584.5
+Helsinki, Finland;98.7;32.2;248.6;78.3;1750.9
+Hanoi, Vietnam;109;29.6;92.5;114.2;3495.1
+Hamilton, Canada;141.2;34.6;497.4;223.1;4818.8
+Hamburg, Germany;110.5;32.5;270;96;2680.3
+Halifax, Canada;116.6;30.1;116.1;127.5;4144.7
+Gurgaon, India;179;38.8;1301.7;234.4;7876.2
+Guatemala City, Guatemala;261;50.1;6436.1;276.1;13004.4
+Guadalajara, Mexico;188.7;41.6;2097.8;213;7531
+Gothenburg, Sweden;93.8;24.2;24.2;113.8;2916.7
+Glasgow, United Kingdom;141;34.4;478;179.7;5084.3
+Geneva, Switzerland;103.7;26;26.9;98.7;3917.3
+Gdansk, Poland;108.6;29.6;93.2;105.4;3493.8
+Frankfurt, Germany;83.1;25.1;25.1;58.4;2057.1
+Fort Worth, TX, United States;119.8;25.2;25.2;124.4;6157.8
+Edmonton, Canada;121;29.3;82.3;134;5040.9
+Edinburgh, United Kingdom;95.3;27.2;35.4;81.5;2826.3
+Durban, South Africa;121.8;26.5;29.4;130.6;6163.6
+Dublin, Ireland;160;40.3;1689.2;191.8;4194.1
+Dubai, United Arab Emirates;187;39.3;1426;274.4;8708.2
+Doha, Qatar;138.6;29.9;103.5;143.1;7498.5
+Dnipro, Ukraine;118;31.7;209.1;99.2;3822.1
+Dhaka, Bangladesh;261.2;57.5;12931.8;324;5178.3
+Detroit, MI, United States;237.3;46.5;4209.8;358.1;11462.3
+Denver, CO, United States;173.9;36.8;847.4;231;8620.5
+Delhi, India;283.1;57;12416.8;313.4;9407.7
+Dallas, TX, United States;161.6;34.2;453.1;196.2;8471.5
+Curitiba, Brazil;123.3;30.3;122.8;130.2;4969.1
+Cork, Ireland;134.3;34.3;464.1;141.4;4435
+Copenhagen, Denmark;83.1;28.6;62.4;92.6;1362.5
+Columbus, OH, United States;121.2;26;26.9;110.4;6321.3
+Colorado Springs, CO, United States;114.8;24.2;24.2;160.5;5336.1
+Colombo, Sri Lanka;339.6;65.7;23802.5;551.8;9245.2
+Cologne, Germany;147.8;36.9;881.2;175.4;4619.8
+Cluj-Napoca, Romania;101.8;29.1;73.8;106.9;2899.3
+Cleveland, OH, United States;153.5;33.7;396.3;177.9;7483.4
+Cincinnati, OH, United States;120.3;24.9;24.9;105.5;6431.5
+Christchurch, New Zealand;98.4;22.8;22.8;75.7;3866.5
+Chisinau, Moldova;99.9;26.5;29.5;70.3;3550.2
+Chicago, IL, United States;189.8;41.8;2174.7;217.5;7502.8
+Chennai, India;203.3;47.4;4755;231.5;5144.4
+Charlotte, NC, United States;173.9;36.4;779.2;216.5;9006.8
+Caracas, Venezuela;149.3;34.7;514.5;177;6174.6
+Cape Town, South Africa;216.3;43.6;2864.3;253.2;10673.7
+Canberra, Australia;100.3;23.7;23.7;91.4;3864.1
+Calgary, Canada;131;30.6;137.9;144.6;5870.8
+Cairo, Egypt;251.2;51.1;7145.6;303.5;9626.5
+Bursa, Turkey;125.1;33.7;389.9;104.1;3775.4
+Buenos Aires, Argentina;196.3;47.5;4761.4;204.3;4292.8
+Budapest, Hungary;140.8;38.7;1277.4;139.6;2969.9
+Bucharest, Romania;171.7;42.1;2282.5;157;4806.9
+Brussels, Belgium;148.4;36.4;788.6;182.8;4952.2
+Brno, Czech Republic;83.2;25.8;26.3;63.2;1965
+Bristol, United Kingdom;115.6;28.5;59.5;99.2;4819.5
+Brisbane, Australia;180.4;40.6;1804.1;223.7;6782.2
+Bratislava, Slovakia;101;31;164.1;138.5;2055
+Brasilia, Brazil;122.7;28.7;62.6;133.1;5566.4
+Boston, MA, United States;207.5;44.9;3417.7;224.6;7950.6
+Bologna, Italy;122.7;32.5;273.3;102.5;4031.4
+Boise, ID, United States;100.6;20;20;75.2;4550.5
+Bogota, Colombia;218.9;51.3;7307.8;229.4;4479.7
+Birmingham, United Kingdom;126;32.9;312.7;124.5;4126.5
+Berlin, Germany;103;33.9;418.7;120.4;1417.6
+Belo Horizonte, Brazil;191.7;44.3;3166.8;223.1;5802.8
+Belgrade, Serbia;133.3;35.7;660.9;133.4;3638.9
+Beirut, Lebanon;183.6;38.3;1180.9;202.4;9354.7
+Beijing, China;193.4;45.2;3556.5;204.9;5513.2
+Basel, Switzerland;70;20.9;20.9;45.9;1429.7
+Barcelona, Spain;101.8;30.5;134.3;115.8;2390.9
+Bangkok, Thailand;207.1;44.4;3201.6;254.2;8131.8
+Bangalore, India;250.8;53.3;8888;279.2;7484.7
+Baltimore, MD, United States;125.7;31.8;213.4;129.1;4619.9
+Baku, Azerbaijan;167.6;40.3;1692.7;217.3;5099.4
+Austin, TX, United States;162.4;34.4;472;224.2;8346.6
+Auckland, New Zealand;167.4;38;1095.2;188.7;6825.2
+Atlanta, GA, United States;204.8;42.4;2382;240.1;9636.7
+Athens, Greece;155.7;37.9;1081.9;152.3;5271.8
+Antwerp, Belgium;158.3;36.8;856.5;208.2;6046.6
+Ankara, Turkey;149.8;36.6;824.8;154.1;5187.3
+Anchorage, AK, United States;133.1;27.6;41.6;329.2;6543.6
+Amsterdam, Netherlands;102;30.1;112.8;183.3;2284.2
+Amman, Jordan;208.7;43.9;3002.9;231.5;8982.4
+Almaty, Kazakhstan;120.5;33;320.7;96.8;3564.2
+Albuquerque, NM, United States;117.7;25.6;25.8;118.1;5802.1
+Ahmedabad, India;145.4;38.3;1175.3;146.8;3684.6
+Adelaide, Australia;101.9;23.6;23.6;108.8;3972.3
+Abu Dhabi, United Arab Emirates;121.5;26.4;28.9;166.6;5905.4

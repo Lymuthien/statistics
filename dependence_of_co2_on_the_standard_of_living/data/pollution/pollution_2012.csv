@@ -1,0 +1,86 @@
+Rank;City;Pollution Index;Exp Pollution Index
+1;Jakarta, Indonesia;146.2;208.8
+2;Kolkata, India;145.5;210.6
+3;Tehran, Iran;140.8;204.2
+4;Bucharest, Romania;140.7;198.4
+5;Shanghai, China;140.2;197.4
+6;Athens, Greece;140;199.3
+7;Karachi, Pakistan;134;189.8
+8;Cairo, Egypt;129.5;187
+9;Manila, Philippines;128.9;181.3
+10;Mexico City, Mexico;128;182.9
+11;Mumbai, India;125;172.8
+12;Beijing, China;124.4;177.8
+13;Harare, Zimbabwe;124.2;184.3
+14;Milan, Italy;120;184.3
+15;Barcelona, Spain;118;167.5
+16;Moscow, Russia;116.6;164.2
+17;Delhi, India;115.7;160.2
+18;Kuala Lumpur, Malaysia;112.9;156.4
+19;Hyderabad, India;110.6;153.1
+20;Caracas, Venezuela;110;160.8
+21;Santiago, Chile;106.2;159.9
+22;Chennai, India;103.6;144.9
+23;Buenos Aires, Argentina;103.5;146.8
+24;Rome, Italy;103;153.5
+25;Sao Paulo, Brazil;101.5;142.3
+26;Nagpur, India;101.2;146.2
+27;Banja Luka, Bosnia And Herzegovina;99.2;138.9
+28;Rio de Janeiro, Brazil;94.6;141.8
+29;Sofia, Bulgaria;94.6;129.9
+30;Belgrade, Serbia;92.7;127.1
+31;Kochi, India;91.7;130.3
+32;Johannesburg, South Africa;91.7;121.9
+33;Budapest, Hungary;90.2;129.3
+34;Bangkok, Thailand;90;124.1
+35;Brussels, Belgium;90;126.1
+36;Istanbul, Turkey;90;121.5
+37;Thessaloniki, Greece;87.2;122.7
+38;Madrid, Spain;86.7;129.3
+39;Bogota, Colombia;85.8;131.1
+40;Krakow (Cracow), Poland;84.2;119.6
+41;Warsaw, Poland;82.5;113.9
+42;London, United Kingdom;81.9;110.4
+43;Los Angeles, CA, United States;76;102.2
+44;Dubai, United Arab Emirates;75.2;102.6
+45;Paris, France;74.2;98.2
+46;Bangalore, India;72.8;96.7
+47;Pune, India;71.7;99.4
+48;Singapore, Singapore;70.8;93.9
+49;New York, NY, United States;68.3;93.9
+50;Islamabad, Pakistan;68.3;90.2
+51;Brno, Czech Republic;68;90.1
+52;Melbourne, Australia;64;83.2
+53;Frankfurt, Germany;64;94.8
+54;Monterrey, Mexico;60.8;97.2
+55;Porto, Portugal;60.6;85.9
+56;San Francisco, CA, United States;60;78.9
+57;Tunis, Tunisia;59.6;77.4
+58;Prague, Czech Republic;59;92.6
+59;Montreal, Canada;58.8;76.4
+60;Amman, Jordan;58;90.2
+61;Curitiba, Brazil;55.6;77
+62;Baia Mare, Romania;55;113.1
+63;Vancouver, Canada;52.5;95
+64;Tokyo, Japan;52.5;74.4
+65;Lisbon, Portugal;51.9;67.9
+66;Zagreb, Croatia;49.5;70.8
+67;Toronto, Canada;42.5;51.7
+68;Berlin, Germany;40;52.9
+69;Dublin, Ireland;37.5;57.5
+70;Constanta, Romania;36.7;54.4
+71;Munich, Germany;36.7;58.2
+72;Ljubljana, Slovenia;35;48
+73;Copenhagen, Denmark;34.2;50.2
+74;Brisbane, Australia;32.5;40.6
+75;Vienna, Austria;28.2;35
+76;Zurich, Switzerland;26.5;38.4
+77;Sydney, Australia;25.6;31.2
+78;Calgary, Canada;25.1;38.4
+79;Edmonton, Canada;21.2;32.9
+80;Stockholm, Sweden;20;36.6
+81;Christchurch, New Zealand;15.8;30.1
+82;Perth, Australia;15;23.4
+83;Trondheim, Norway;13.6;20.5
+84;Hamburg, Germany;7.5;18.5
+85;Reykjavik, Iceland;7.1;12.7

@@ -1,0 +1,122 @@
+Rank;City;Traffic Index;Time Index;Time Exp. Index;Inefficiency Index;CO2�Emission Index
+1;Mumbai, India;386.8;74.8;41147;353;8166
+2;Cairo, Egypt;353.2;64.5;21942.2;354.8;14830.2
+3;Pune, India;347.5;64;21197;273.9;14727.5
+4;Istanbul, Turkey;335.3;68.4;28283.3;269.8;6783.1
+5;Kolkata, India;325.1;60.9;16901.7;441;12827
+6;Salt Lake City, UT, United States;317.7;66;24276.3;259.8;6368.7
+7;Dhaka, Bangladesh;309.8;60.2;16053.5;374.8;10722
+8;Tehran, Iran;305.2;61;17061.8;257.3;9504.6
+9;Jakarta, Indonesia;300.5;56.4;11809.5;300.9;13947.1
+10;Saint Petersburg, Russia;299.5;62.5;19058.4;300.3;6668.8
+11;Amman, Jordan;286.9;60.2;16053.5;300;6842
+12;Belo Horizonte, Brazil;279.8;57.5;12931.8;258.6;8563.3
+13;Coimbatore, India;272.4;63.8;20830.6;304.2;2200
+14;Moscow, Russia;267.6;58;13477.9;223.5;6165.3
+15;Manila, Philippines;264.4;54.7;10132.5;269.8;8573
+16;San Diego, CA, United States;264.2;56.2;11628.7;249.8;7100
+17;Mexico City, Mexico;256.4;50.6;6748.5;299.7;11315.6
+18;Delhi, India;223.4;47.1;4547;233.3;8757.7
+19;Hyderabad, India;221.9;50.5;6676.7;246.1;5481.8
+20;Buenos Aires, Argentina;217.2;47.2;4628.1;213.4;7622.2
+21;Seattle, WA, United States;215.9;42.5;2435.4;616.8;9842
+22;Sao Paulo, Brazil;213.5;48.2;5186.9;226.7;6126.4
+23;Santiago, Chile;212.5;50.6;6780.3;155.8;4496
+24;Berlin, Germany;212.3;49.5;5996.4;468.4;4070
+25;Dallas, TX, United States;211.2;44;3036.4;177;9757.5
+26;Bangalore, India;208.5;45.1;3543.9;220.1;7920.4
+27;Manchester, United Kingdom;208.3;45.2;3603.5;178;8046.5
+28;Montreal, Canada;204.8;48.1;5157.7;210.4;4950.9
+29;Ahmedabad, India;204.3;49;5695.8;134.3;4650
+30;Denver, CO, United States;202.7;43.3;2758.8;147.2;8966.7
+31;Beirut, Lebanon;200.1;41.8;2166.1;143.5;9975
+32;Houston, TX, United States;199.4;40.9;1898.9;187.3;10238.3
+33;Singapore, Singapore;197.1;48.1;5137.7;161.5;4169.8
+34;Cape Town, South Africa;196.9;42.4;2414.8;223.5;8171.1
+35;Austin, TX, United States;196.2;39.8;1543.3;206.8;10573.5
+36;Kuala Lumpur, Malaysia;195.3;43.7;2895.5;180;7124.4
+37;Chennai, India;194.4;47.3;4690.7;156.5;4360.8
+38;Ankara, Turkey;191.6;44.8;3407.5;192.1;5553.3
+39;Brisbane, Australia;191;45.8;3882;227.3;4596.5
+40;Tel Aviv-Yafo, Israel;188.5;44.8;3392.2;216.9;5010
+41;Sydney, Australia;186.1;43.5;2814.6;175.8;5827.5
+42;Porto Alegre, Brazil;185.8;49;5695.8;137.8;2464
+43;Caracas, Venezuela;182.1;38.8;1281.1;163.4;8977.5
+44;Rome, Italy;180.7;44.6;3307.8;198;4158.6
+45;Toronto, Canada;175.5;40.1;1644.1;236.5;6322.1
+46;Johannesburg, South Africa;175.5;36.8;862.9;157.4;9354.3
+47;Athens, Greece;173.9;41.6;2129.2;180.6;5286.1
+48;Milan, Italy;173.9;44;3036.4;137.7;3975.8
+49;Melbourne, Australia;170.7;40.8;1857.3;155.4;5522.1
+50;Bogota, Colombia;169.1;45.5;3724.4;218.5;2279
+51;Vancouver, Canada;167.5;40.8;1837.7;176.6;4976.3
+52;Ottawa, Canada;166.9;40;1613.8;144.5;5574
+53;San Francisco, CA, United States;166.3;40.5;1761;191.8;4900
+54;Bangkok, Thailand;165.9;36.5;800.8;131.4;8040
+55;London, United Kingdom;164;47.5;4804.8;319.1;855.3
+56;Lisbon, Portugal;157;41.5;2093.7;141.2;3339.2
+57;Bucharest, Romania;156.4;38.1;1132.9;152.3;5223.8
+58;Doha, Qatar;156.4;33.4;358.8;106.6;8778
+59;Tokyo, Japan;154.6;47.6;4868.1;117.9;691.4
+60;Budapest, Hungary;154.4;41.5;2093.7;136.6;3075.2
+61;Dubai, United Arab Emirates;152.2;35.4;621.3;252.7;5767.7
+62;Rio de Janeiro, Brazil;151.4;45;3485.1;134.8;1280
+63;Calgary, Canada;149.5;40.4;1718.1;114.2;3245
+64;Hong Kong, Hong Kong (China);149.4;40.4;1739.5;142.2;3057.1
+65;New York, NY, United States;147.9;39.4;1443.5;107.6;3612.5
+66;Beijing, China;145;31.4;186.8;185.1;7448
+67;Perth, Australia;144.7;38.5;1209.5;138;3572
+68;Phoenix, AZ, United States;144.2;33.8;397.4;105.8;6435
+69;Ulaanbaatar, Mongolia;143.7;36.9;867.4;100.1;4541.4
+70;Edmonton, Canada;143.5;33.6;380.5;154;6078.8
+71;Boston, MA, United States;143.3;42.4;2398.3;72.6;1888
+72;Poznan, Poland;138.9;41.2;1997.6;67.4;2005
+73;Warsaw, Poland;136.1;37.5;996.3;85.1;3344.5
+74;Madrid, Spain;135.1;34.9;540;120.8;4361.2
+75;Tbilisi, Georgia;130.4;38;1104.6;154.2;2182
+76;Portland, OR, United States;128.8;30;109.4;99.3;6135
+77;Stockholm, Sweden;128;37.8;1049.5;82;2381.2
+78;Almaty, Kazakhstan;126.8;40;1613.8;50.2;1563.3
+79;Sofia, Bulgaria;121.4;37.9;1084.4;181.1;1373.1
+80;Wroclaw, Poland;120.1;35.9;689.5;76.1;2427.1
+81;Curitiba, Brazil;118.9;28.2;52.9;75.8;5570
+82;Zagreb, Croatia;118.7;33.9;409.7;104.4;2961.1
+83;Kiev (Kyiv), Ukraine;115.4;33;318;78;3101.4
+84;Chicago, IL, United States;113.9;33;318;70.1;2996
+85;Shanghai, China;113.5;34.3;467.7;90;2306.7
+86;Copenhagen, Denmark;110.2;27.6;40.6;92.4;4441.4
+87;Brussels, Belgium;106.9;24.3;24.3;90.2;4644.3
+88;Barcelona, Spain;106.5;28.7;64.1;68.1;3781.4
+89;Paris, France;105.8;35.7;658.6;90.6;1222.2
+90;Auckland, New Zealand;104;34;426.6;53.7;1769.6
+91;Belgrade, Serbia;102.6;26;27;59.7;4053.3
+92;Yerevan, Armenia;101.9;31.4;188.7;67.8;2350.9
+93;Belfast, United Kingdom;98.7;20.7;20.7;47.8;4433.3
+94;Prague, Czech Republic;95.7;34.3;467.7;58.5;1029.1
+95;Thessaloniki, Greece;94.2;20.5;20.5;53.3;3822.5
+96;Brno, Czech Republic;93.1;30.2;119.6;59.1;1955.6
+97;Bremen, Germany;92.7;33.6;380.5;70.4;974.8
+98;Constanta, Romania;92.6;30.8;146.9;133.7;1454
+99;Wellington, New Zealand;92.2;27.5;39.6;51.1;2627.5
+100;Edinburgh, United Kingdom;90.8;23.2;23.2;48.5;3112.8
+101;Seoul, South Korea;90.7;34.8;522.7;85.6;570
+102;Oslo, Norway;87.8;32;230.3;50.9;1124
+103;Vilnius, Lithuania;87.2;25.7;26.1;90.7;2195.7
+104;Hamburg, Germany;86.9;24.2;24.2;50.3;2570
+105;Ljubljana, Slovenia;81.6;20.8;20.8;29.4;2586
+106;Gdansk, Poland;80.2;27.8;44.2;39.7;1556.8
+107;Bergen, Norway;80;28.4;56.2;44.8;1397.6
+108;Porto, Portugal;78.5;22.3;22.3;39.9;2042.9
+109;Adelaide, Australia;77;20.2;20.2;41.6;2102
+110;Banja Luka, Bosnia And Herzegovina;76.4;24.6;24.6;47.7;1596
+111;Dublin, Ireland;71;24.1;24.1;65.5;1146.8
+112;Canberra, Australia;70.8;10.8;10.8;32.2;2606.8
+113;Trondheim, Norway;67.7;19.1;19.1;34.6;1466.9
+114;Katowice, Poland;67.6;13.4;13.4;26.9;2059.2
+115;Cluj-Napoca, Romania;66.6;23.2;23.2;32.9;1080.8
+116;Tallinn, Estonia;62;25.5;25.7;18;737
+117;Medan, Indonesia;61.8;25.6;25.8;41.4;608
+118;Frankfurt, Germany;59.7;28.8;65.1;49.4;250
+119;Zurich, Switzerland;50.8;24.8;24.8;21.2;268
+120;Vienna, Austria;49.3;25.3;25.4;8.2;256.7
+121;Nis, Serbia;44.8;19.6;19.6;6.4;332.8
