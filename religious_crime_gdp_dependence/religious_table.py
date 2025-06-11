@@ -11,15 +11,15 @@ class ReligiousTable(object):
 
         countries: set[str] = set(self.table["Country Name"])
         for country in countries:
-            max_row = self._get_max_row_by_value(country)
-            if max_row is not None:
-                unique_religion_country_table = pd.concat(
-                    [unique_religion_country_table, max_row], ignore_index=True
-                )
+            for row in self._get_max_row_by_value(country):
+                if row is not None:
+                    unique_religion_country_table = pd.concat(
+                        [unique_religion_country_table, row], ignore_index=True
+                    )
 
         self.table = unique_religion_country_table
 
-    def _get_max_row_by_value(self, country: str) -> DataFrame | None:
+    def _get_max_row_by_value(self, country: str):
         if not country.isdigit():
             country_rows: DataFrame = self.table.loc[
                 self.table["Country Name"] == country
@@ -31,10 +31,13 @@ class ReligiousTable(object):
                     continue
 
                 sex_rows = sex_rows[sex_rows["Religion"] != "Total"]
-                max_row: DataFrame = (
-                    sex_rows.loc[sex_rows["Value"].idxmax()].to_frame().T
-                )
-                return max_row
+
+                for year in range(2006, 2025):
+                    rows = sex_rows[sex_rows["Year"] == str(year)]
+                    if rows.empty:
+                        continue
+                    max_row: DataFrame = rows.loc[rows["Value"].idxmax()].to_frame().T
+                    yield max_row
 
 
 if __name__ == "__main__":
