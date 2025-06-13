@@ -22,6 +22,31 @@ class ReligiousDf(object):
 
         self.df = religion_country_df
 
+    def fill_years(self):
+        new_df = self.df.copy()
+
+        countries: set[str] = set(self.df["Country Name"])
+        for country in countries:
+            country_df = self.df.loc[self.df["Country Name"] == country]
+            min_year = min(country_df["Year"])
+
+            for year in range(min_year, 2024):
+                if not country_df[country_df["Year"] == year].empty:
+                    continue
+
+                mask = (new_df["Year"] == year - 1) & (
+                    new_df["Country Name"] == country
+                )
+                f: pd.Series = new_df[mask]["Religion"]
+                # print(f)
+                new_df.loc[len(new_df)] = {
+                    "Country Name": country,
+                    "Year": year,
+                    "Religion": f.values[0],
+                }
+
+        self.df = new_df
+
     def _get_max_row_by_value(self, country: str) -> Generator[DataFrame, None]:
         if not country.isdigit():
             country_rows: DataFrame = self.df.loc[self.df["Country Name"] == country]
@@ -57,3 +82,10 @@ class GDPDf(object):
                 }
 
         self.df = gdp_by_year_df
+
+
+if __name__ == "__main__":
+    t = pd.read_csv("religious.csv", sep=",")
+    r = ReligiousDf(t)
+    r.fill_years()
+    r.df.to_csv("religious.csv", index=False)
