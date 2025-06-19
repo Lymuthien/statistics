@@ -47,7 +47,7 @@ class App(object):
 
     def _save_dependence_df(self):
         for k, df in self._dependence_dfs.items():
-            df.to_csv(self._dir / f"pollution_{k}_dependence.csv")
+            df.to_csv(self._dir / f"{k}_dependence.csv")
 
     def _make_tables(self):
         merged_df = self._get_merged_df()

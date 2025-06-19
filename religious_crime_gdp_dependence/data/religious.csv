@@ -7,70 +7,70 @@ Peru,2017,Catholic
 Iran (Islamic Republic of),2006,Muslim
 Iran (Islamic Republic of),2011,Muslim
 Iran (Islamic Republic of),2016,Muslim
-Belize,2010,Roman Catholic
-Cook Islands,2006,Roman Catholic
-Cook Islands,2011,Cook Islands Christian Church
+Belize,2010,Catholic
+Cook Islands,2006,Catholic
+Cook Islands,2011,Protestant
 Mongolia,2010,Buddhist
 Mongolia,2020,Buddhist
 Jamaica,2011,No Religion
 Ethiopia,2007,Orthodox
-Poland,2011,Roman Catholic
-Poland,2021,Roman Catholic
-Niue,2017,Ekalesia Niue
+Poland,2011,Catholic
+Poland,2021,Catholic
+Niue,2017,Protestant
 Romania,2011,Orthodox
 Romania,2021,Orthodox
-Ghana,2010,Pentecostal
-Norfolk Island,2006,Church of England
-Norfolk Island,2011,Church of England
+Ghana,2010,Christian
+Norfolk Island,2006,Protestant
+Norfolk Island,2011,Protestant
 Albania,2011,Muslim
 Albania,2023,Muslim
-Liechtenstein,2010,Roman Catholic
-Liechtenstein,2015,Roman Catholic
-Montenegro,2011,Christian Orthodox
-Brazil,2010,Roman Apostolic Catholic
-Barbados,2010,Anglican
+Liechtenstein,2010,Catholic
+Liechtenstein,2015,Catholic
+Montenegro,2011,Christian
+Brazil,2010,Catholic
+Barbados,2010,Protestant
 Armenia,2011,Armenian Apostolic
 Armenia,2022,Armenian Apostolic
 Malawi,2008,Christian
 Malawi,2018,Christian
-Slovakia,2011,Roman Catholic
-Slovakia,2021,Roman Catholic
+Slovakia,2011,Catholic
+Slovakia,2021,Catholic
 Thailand,2010,Buddhist
-Aruba,2010,Roman Catholic
-Switzerland,2011,Roman Catholic
-Switzerland,2020,Roman Catholic
-Tonga,2006,Free Wesleyan Church
-Tonga,2016,Free Wesleyan Church
-Tonga,2021,Free Wesleyan Church
-Czechia,2011,Unknown
+Aruba,2010,Catholic
+Switzerland,2011,Catholic
+Switzerland,2020,Catholic
+Tonga,2006,Christian
+Tonga,2016,Christian
+Tonga,2021,Christian
+Czechia,2011,Catholic
 Czechia,2021,No Religion
-Philippines,2015,Roman Catholic
-Philippines,2020,Roman Catholic
+Philippines,2015,Catholic
+Philippines,2020,Catholic
 United Kingdom of Great Britain and Northern Ireland,2011,Christian
 Pakistan,2017,Muslim
-Samoa,2016,Congregational
+Samoa,2016,Protestant
 Lao People's Democratic Republic,2015,Buddhist
 Viet Nam,2019,No Religion
-British Virgin Islands,2010,Methodist
+British Virgin Islands,2010,Protestant
 North Macedonia,2021,Orthodox
 Côte d'Ivoire,2014,Muslim
 Nepal,2011,Hindu
 Nepal,2021,Hindu
 Bangladesh,2022,Muslim
 Guinea-Bissau,2009,Muslim
-Malaysia,2010,Islam 
-Malaysia,2020,Islam 
-Cayman Islands,2010,Church of God
-Cayman Islands,2021,Church of God
+Malaysia,2010,Muslim
+Malaysia,2020,Muslim
+Cayman Islands,2010,Christian
+Cayman Islands,2021,Christian
 Australia,2006,Catholic
 Australia,2011,Catholic
 Australia,2016,No Religion
 Australia,2021,Christian
-Sao Tome and Principe,2012,Roman Apostolic Catholic
+Sao Tome and Principe,2012,Catholic
 Israel,2022,Jewish
 Sri Lanka,2012,Buddhist
-Hungary,2011,Roman Catholic
-Hungary,2022,Not Declared
+Hungary,2011,Catholic
+Hungary,2022,Catholic
 Mozambique,2007,Catholic
 Mozambique,2017,Catholic
 New Zealand,2006,No Religion
@@ -79,46 +79,46 @@ New Zealand,2018,No Religion
 Republic of Moldova,2014,Orthodox
 Singapore,2010,Buddhist
 Singapore,2020,Buddhist
-Maldives,2014,Islam 
-Sint Maarten (Dutch part),2011,Roman Catholic
+Maldives,2014,Muslim
+Sint Maarten (Dutch part),2011,Catholic
 Zambia,2010,Protestant
 Cyprus,2021,Orthodox
-Ireland,2006,Roman Catholic
-Ireland,2011,Roman Catholic
-Kazakhstan,2009,Islam 
-Kazakhstan,2021,Islam 
-Vanuatu,2009,Presbyterian
-Bahamas,2010,Baptist
-Bahamas,2022,Baptist
-Tokelau,2006,Christian Congregational
-Tokelau,2011,Christian Congregational
-Tokelau,2016,Christian Congregational
+Ireland,2006,Catholic
+Ireland,2011,Catholic
+Kazakhstan,2009,Muslim
+Kazakhstan,2021,Muslim
+Vanuatu,2009,Christian
+Bahamas,2010,Protestant
+Bahamas,2022,Protestant
+Tokelau,2006,Christian
+Tokelau,2011,Christian
+Tokelau,2016,Christian
 Finland,2010,Lutheran
 Finland,2021,Lutheran
-Saint Helena ex. dep.,2008,Church of England
-Saint Helena ex. dep.,2016,Anglican
+Saint Helena ex. dep.,2008,Protestant
+Saint Helena ex. dep.,2016,Protestant
 Botswana,2011,Christian
 Botswana,2022,Christian
-Georgia,2014,Christian Orthodox
-Tuvalu,2017,Ekalesia Kelisiano Tuvalu
+Georgia,2014,Christian
+Tuvalu,2017,Christian
 Kenya,2009,Protestant
 Kenya,2019,Protestant
-Brunei Darussalam,2011,Muslim
-Brunei Darussalam,2021,Muslim
-Trinidad and Tobago,2011,Roman Catholic
+Brunei,2011,Muslim
+Brunei,2021,Muslim
+Trinidad and Tobago,2011,Catholic
 Mexico,2010,Catholic
 Mexico,2020,Catholic
 Portugal,2011,Catholic
 Portugal,2021,Catholic
 Liberia,2008,Christian
-State of Palestine,2007,Islam 
+State of Palestine,2007,Muslim
 Myanmar,2014,Buddhist
 Kiribati,2010,Catholic
 Kiribati,2015,Catholic
 Estonia,2011,No Religion
 Estonia,2021,No Religion
-Bulgaria,2011,Eastern Orthodox
-Bulgaria,2021,Eastern Orthodox
+Bulgaria,2011,Orthodox
+Bulgaria,2021,Orthodox
 Cambodia,2008,Buddhist
 Niger,2012,Muslim
 Indonesia,2010,Muslim
@@ -126,20 +126,20 @@ Burundi,2008,Catholic
 Bahrain,2010,Muslim
 Bahrain,2020,Muslim
 Rwanda,2012,Catholic
-Gibraltar,2012,Roman Catholic
+Gibraltar,2012,Catholic
 Suriname,2012,Christian
-Canada,2011,Roman Catholic
+Canada,2011,Catholic
 Canada,2021,No Religion
 Guinea,2014,Muslim
-Lithuania,2011,Roman Catholic
-Lithuania,2021,Roman Catholic
+Lithuania,2011,Catholic
+Lithuania,2021,Catholic
 Republic of Korea,2015,No Religion
 Mauritius,2011,Hindu
 Falkland Islands (Malvinas),2006,Christian
-Serbia,2011,Serbian Orthodox
-Serbia,2022,Serbian Orthodox
-Fiji,2007,Methodist
-Germany,2011,Other
+Serbia,2011,Orthodox
+Serbia,2022,Orthodox
+Fiji,2007,Christian
+Germany,2011,Christian
 Timor-Leste,2015,Catholic
 Guinea-Bissau,2010,Muslim
 Guinea-Bissau,2011,Muslim
@@ -155,13 +155,13 @@ Guinea-Bissau,2020,Muslim
 Guinea-Bissau,2021,Muslim
 Guinea-Bissau,2022,Muslim
 Guinea-Bissau,2023,Muslim
-Philippines,2016,Roman Catholic
-Philippines,2017,Roman Catholic
-Philippines,2018,Roman Catholic
-Philippines,2019,Roman Catholic
-Philippines,2021,Roman Catholic
-Philippines,2022,Roman Catholic
-Philippines,2023,Roman Catholic
+Philippines,2016,Catholic
+Philippines,2017,Catholic
+Philippines,2018,Catholic
+Philippines,2019,Catholic
+Philippines,2021,Catholic
+Philippines,2022,Catholic
+Philippines,2023,Catholic
 Suriname,2013,Christian
 Suriname,2014,Christian
 Suriname,2015,Christian
@@ -173,31 +173,31 @@ Suriname,2020,Christian
 Suriname,2021,Christian
 Suriname,2022,Christian
 Suriname,2023,Christian
-Slovakia,2012,Roman Catholic
-Slovakia,2013,Roman Catholic
-Slovakia,2014,Roman Catholic
-Slovakia,2015,Roman Catholic
-Slovakia,2016,Roman Catholic
-Slovakia,2017,Roman Catholic
-Slovakia,2018,Roman Catholic
-Slovakia,2019,Roman Catholic
-Slovakia,2020,Roman Catholic
-Slovakia,2022,Roman Catholic
-Slovakia,2023,Roman Catholic
-Saint Helena ex. dep.,2009,Church of England
-Saint Helena ex. dep.,2010,Church of England
-Saint Helena ex. dep.,2011,Church of England
-Saint Helena ex. dep.,2012,Church of England
-Saint Helena ex. dep.,2013,Church of England
-Saint Helena ex. dep.,2014,Church of England
-Saint Helena ex. dep.,2015,Church of England
-Saint Helena ex. dep.,2017,Anglican
-Saint Helena ex. dep.,2018,Anglican
-Saint Helena ex. dep.,2019,Anglican
-Saint Helena ex. dep.,2020,Anglican
-Saint Helena ex. dep.,2021,Anglican
-Saint Helena ex. dep.,2022,Anglican
-Saint Helena ex. dep.,2023,Anglican
+Slovakia,2012,Catholic
+Slovakia,2013,Catholic
+Slovakia,2014,Catholic
+Slovakia,2015,Catholic
+Slovakia,2016,Catholic
+Slovakia,2017,Catholic
+Slovakia,2018,Catholic
+Slovakia,2019,Catholic
+Slovakia,2020,Catholic
+Slovakia,2022,Catholic
+Slovakia,2023,Catholic
+Saint Helena ex. dep.,2009,Protestant
+Saint Helena ex. dep.,2010,Protestant
+Saint Helena ex. dep.,2011,Protestant
+Saint Helena ex. dep.,2012,Protestant
+Saint Helena ex. dep.,2013,Protestant
+Saint Helena ex. dep.,2014,Protestant
+Saint Helena ex. dep.,2015,Protestant
+Saint Helena ex. dep.,2017,Protestant
+Saint Helena ex. dep.,2018,Protestant
+Saint Helena ex. dep.,2019,Protestant
+Saint Helena ex. dep.,2020,Protestant
+Saint Helena ex. dep.,2021,Protestant
+Saint Helena ex. dep.,2022,Protestant
+Saint Helena ex. dep.,2023,Protestant
 Nepal,2012,Hindu
 Nepal,2013,Hindu
 Nepal,2014,Hindu
@@ -209,33 +209,33 @@ Nepal,2019,Hindu
 Nepal,2020,Hindu
 Nepal,2022,Hindu
 Nepal,2023,Hindu
-Sint Maarten (Dutch part),2012,Roman Catholic
-Sint Maarten (Dutch part),2013,Roman Catholic
-Sint Maarten (Dutch part),2014,Roman Catholic
-Sint Maarten (Dutch part),2015,Roman Catholic
-Sint Maarten (Dutch part),2016,Roman Catholic
-Sint Maarten (Dutch part),2017,Roman Catholic
-Sint Maarten (Dutch part),2018,Roman Catholic
-Sint Maarten (Dutch part),2019,Roman Catholic
-Sint Maarten (Dutch part),2020,Roman Catholic
-Sint Maarten (Dutch part),2021,Roman Catholic
-Sint Maarten (Dutch part),2022,Roman Catholic
-Sint Maarten (Dutch part),2023,Roman Catholic
-Tonga,2007,Free Wesleyan Church
-Tonga,2008,Free Wesleyan Church
-Tonga,2009,Free Wesleyan Church
-Tonga,2010,Free Wesleyan Church
-Tonga,2011,Free Wesleyan Church
-Tonga,2012,Free Wesleyan Church
-Tonga,2013,Free Wesleyan Church
-Tonga,2014,Free Wesleyan Church
-Tonga,2015,Free Wesleyan Church
-Tonga,2017,Free Wesleyan Church
-Tonga,2018,Free Wesleyan Church
-Tonga,2019,Free Wesleyan Church
-Tonga,2020,Free Wesleyan Church
-Tonga,2022,Free Wesleyan Church
-Tonga,2023,Free Wesleyan Church
+Sint Maarten (Dutch part),2012,Catholic
+Sint Maarten (Dutch part),2013,Catholic
+Sint Maarten (Dutch part),2014,Catholic
+Sint Maarten (Dutch part),2015,Catholic
+Sint Maarten (Dutch part),2016,Catholic
+Sint Maarten (Dutch part),2017,Catholic
+Sint Maarten (Dutch part),2018,Catholic
+Sint Maarten (Dutch part),2019,Catholic
+Sint Maarten (Dutch part),2020,Catholic
+Sint Maarten (Dutch part),2021,Catholic
+Sint Maarten (Dutch part),2022,Catholic
+Sint Maarten (Dutch part),2023,Catholic
+Tonga,2007,Christian
+Tonga,2008,Christian
+Tonga,2009,Christian
+Tonga,2010,Christian
+Tonga,2011,Christian
+Tonga,2012,Christian
+Tonga,2013,Christian
+Tonga,2014,Christian
+Tonga,2015,Christian
+Tonga,2017,Christian
+Tonga,2018,Christian
+Tonga,2019,Christian
+Tonga,2020,Christian
+Tonga,2022,Christian
+Tonga,2023,Christian
 Timor-Leste,2016,Catholic
 Timor-Leste,2017,Catholic
 Timor-Leste,2018,Catholic
@@ -244,40 +244,40 @@ Timor-Leste,2020,Catholic
 Timor-Leste,2021,Catholic
 Timor-Leste,2022,Catholic
 Timor-Leste,2023,Catholic
-Malaysia,2011,Islam 
-Malaysia,2012,Islam 
-Malaysia,2013,Islam 
-Malaysia,2014,Islam 
-Malaysia,2015,Islam 
-Malaysia,2016,Islam 
-Malaysia,2017,Islam 
-Malaysia,2018,Islam 
-Malaysia,2019,Islam 
-Malaysia,2021,Islam 
-Malaysia,2022,Islam 
-Malaysia,2023,Islam 
-Lithuania,2012,Roman Catholic
-Lithuania,2013,Roman Catholic
-Lithuania,2014,Roman Catholic
-Lithuania,2015,Roman Catholic
-Lithuania,2016,Roman Catholic
-Lithuania,2017,Roman Catholic
-Lithuania,2018,Roman Catholic
-Lithuania,2019,Roman Catholic
-Lithuania,2020,Roman Catholic
-Lithuania,2022,Roman Catholic
-Lithuania,2023,Roman Catholic
-Bulgaria,2012,Eastern Orthodox
-Bulgaria,2013,Eastern Orthodox
-Bulgaria,2014,Eastern Orthodox
-Bulgaria,2015,Eastern Orthodox
-Bulgaria,2016,Eastern Orthodox
-Bulgaria,2017,Eastern Orthodox
-Bulgaria,2018,Eastern Orthodox
-Bulgaria,2019,Eastern Orthodox
-Bulgaria,2020,Eastern Orthodox
-Bulgaria,2022,Eastern Orthodox
-Bulgaria,2023,Eastern Orthodox
+Malaysia,2011,Muslim
+Malaysia,2012,Muslim
+Malaysia,2013,Muslim
+Malaysia,2014,Muslim
+Malaysia,2015,Muslim
+Malaysia,2016,Muslim
+Malaysia,2017,Muslim
+Malaysia,2018,Muslim
+Malaysia,2019,Muslim
+Malaysia,2021,Muslim
+Malaysia,2022,Muslim
+Malaysia,2023,Muslim
+Lithuania,2012,Catholic
+Lithuania,2013,Catholic
+Lithuania,2014,Catholic
+Lithuania,2015,Catholic
+Lithuania,2016,Catholic
+Lithuania,2017,Catholic
+Lithuania,2018,Catholic
+Lithuania,2019,Catholic
+Lithuania,2020,Catholic
+Lithuania,2022,Catholic
+Lithuania,2023,Catholic
+Bulgaria,2012,Orthodox
+Bulgaria,2013,Orthodox
+Bulgaria,2014,Orthodox
+Bulgaria,2015,Orthodox
+Bulgaria,2016,Orthodox
+Bulgaria,2017,Orthodox
+Bulgaria,2018,Orthodox
+Bulgaria,2019,Orthodox
+Bulgaria,2020,Orthodox
+Bulgaria,2022,Orthodox
+Bulgaria,2023,Orthodox
 Liberia,2009,Christian
 Liberia,2010,Christian
 Liberia,2011,Christian
@@ -305,30 +305,30 @@ Mongolia,2019,Buddhist
 Mongolia,2021,Buddhist
 Mongolia,2022,Buddhist
 Mongolia,2023,Buddhist
-Aruba,2011,Roman Catholic
-Aruba,2012,Roman Catholic
-Aruba,2013,Roman Catholic
-Aruba,2014,Roman Catholic
-Aruba,2015,Roman Catholic
-Aruba,2016,Roman Catholic
-Aruba,2017,Roman Catholic
-Aruba,2018,Roman Catholic
-Aruba,2019,Roman Catholic
-Aruba,2020,Roman Catholic
-Aruba,2021,Roman Catholic
-Aruba,2022,Roman Catholic
-Aruba,2023,Roman Catholic
-Sao Tome and Principe,2013,Roman Apostolic Catholic
-Sao Tome and Principe,2014,Roman Apostolic Catholic
-Sao Tome and Principe,2015,Roman Apostolic Catholic
-Sao Tome and Principe,2016,Roman Apostolic Catholic
-Sao Tome and Principe,2017,Roman Apostolic Catholic
-Sao Tome and Principe,2018,Roman Apostolic Catholic
-Sao Tome and Principe,2019,Roman Apostolic Catholic
-Sao Tome and Principe,2020,Roman Apostolic Catholic
-Sao Tome and Principe,2021,Roman Apostolic Catholic
-Sao Tome and Principe,2022,Roman Apostolic Catholic
-Sao Tome and Principe,2023,Roman Apostolic Catholic
+Aruba,2011,Catholic
+Aruba,2012,Catholic
+Aruba,2013,Catholic
+Aruba,2014,Catholic
+Aruba,2015,Catholic
+Aruba,2016,Catholic
+Aruba,2017,Catholic
+Aruba,2018,Catholic
+Aruba,2019,Catholic
+Aruba,2020,Catholic
+Aruba,2021,Catholic
+Aruba,2022,Catholic
+Aruba,2023,Catholic
+Sao Tome and Principe,2013,Catholic
+Sao Tome and Principe,2014,Catholic
+Sao Tome and Principe,2015,Catholic
+Sao Tome and Principe,2016,Catholic
+Sao Tome and Principe,2017,Catholic
+Sao Tome and Principe,2018,Catholic
+Sao Tome and Principe,2019,Catholic
+Sao Tome and Principe,2020,Catholic
+Sao Tome and Principe,2021,Catholic
+Sao Tome and Principe,2022,Catholic
+Sao Tome and Principe,2023,Catholic
 Côte d'Ivoire,2015,Muslim
 Côte d'Ivoire,2016,Muslim
 Côte d'Ivoire,2017,Muslim
@@ -368,25 +368,25 @@ Falkland Islands (Malvinas),2020,Christian
 Falkland Islands (Malvinas),2021,Christian
 Falkland Islands (Malvinas),2022,Christian
 Falkland Islands (Malvinas),2023,Christian
-Belize,2011,Roman Catholic
-Belize,2012,Roman Catholic
-Belize,2013,Roman Catholic
-Belize,2014,Roman Catholic
-Belize,2015,Roman Catholic
-Belize,2016,Roman Catholic
-Belize,2017,Roman Catholic
-Belize,2018,Roman Catholic
-Belize,2019,Roman Catholic
-Belize,2020,Roman Catholic
-Belize,2021,Roman Catholic
-Belize,2022,Roman Catholic
-Belize,2023,Roman Catholic
-Tuvalu,2018,Ekalesia Kelisiano Tuvalu
-Tuvalu,2019,Ekalesia Kelisiano Tuvalu
-Tuvalu,2020,Ekalesia Kelisiano Tuvalu
-Tuvalu,2021,Ekalesia Kelisiano Tuvalu
-Tuvalu,2022,Ekalesia Kelisiano Tuvalu
-Tuvalu,2023,Ekalesia Kelisiano Tuvalu
+Belize,2011,Catholic
+Belize,2012,Catholic
+Belize,2013,Catholic
+Belize,2014,Catholic
+Belize,2015,Catholic
+Belize,2016,Catholic
+Belize,2017,Catholic
+Belize,2018,Catholic
+Belize,2019,Catholic
+Belize,2020,Catholic
+Belize,2021,Catholic
+Belize,2022,Catholic
+Belize,2023,Catholic
+Tuvalu,2018,Christian
+Tuvalu,2019,Christian
+Tuvalu,2020,Christian
+Tuvalu,2021,Christian
+Tuvalu,2022,Christian
+Tuvalu,2023,Christian
 Burundi,2009,Catholic
 Burundi,2010,Catholic
 Burundi,2011,Catholic
@@ -431,21 +431,21 @@ Mozambique,2020,Catholic
 Mozambique,2021,Catholic
 Mozambique,2022,Catholic
 Mozambique,2023,Catholic
-Tokelau,2007,Christian Congregational
-Tokelau,2008,Christian Congregational
-Tokelau,2009,Christian Congregational
-Tokelau,2010,Christian Congregational
-Tokelau,2012,Christian Congregational
-Tokelau,2013,Christian Congregational
-Tokelau,2014,Christian Congregational
-Tokelau,2015,Christian Congregational
-Tokelau,2017,Christian Congregational
-Tokelau,2018,Christian Congregational
-Tokelau,2019,Christian Congregational
-Tokelau,2020,Christian Congregational
-Tokelau,2021,Christian Congregational
-Tokelau,2022,Christian Congregational
-Tokelau,2023,Christian Congregational
+Tokelau,2007,Christian
+Tokelau,2008,Christian
+Tokelau,2009,Christian
+Tokelau,2010,Christian
+Tokelau,2012,Christian
+Tokelau,2013,Christian
+Tokelau,2014,Christian
+Tokelau,2015,Christian
+Tokelau,2017,Christian
+Tokelau,2018,Christian
+Tokelau,2019,Christian
+Tokelau,2020,Christian
+Tokelau,2021,Christian
+Tokelau,2022,Christian
+Tokelau,2023,Christian
 Bahrain,2011,Muslim
 Bahrain,2012,Muslim
 Bahrain,2013,Muslim
@@ -488,19 +488,19 @@ Indonesia,2020,Muslim
 Indonesia,2021,Muslim
 Indonesia,2022,Muslim
 Indonesia,2023,Muslim
-Ghana,2011,Pentecostal
-Ghana,2012,Pentecostal
-Ghana,2013,Pentecostal
-Ghana,2014,Pentecostal
-Ghana,2015,Pentecostal
-Ghana,2016,Pentecostal
-Ghana,2017,Pentecostal
-Ghana,2018,Pentecostal
-Ghana,2019,Pentecostal
-Ghana,2020,Pentecostal
-Ghana,2021,Pentecostal
-Ghana,2022,Pentecostal
-Ghana,2023,Pentecostal
+Ghana,2011,Christian
+Ghana,2012,Christian
+Ghana,2013,Christian
+Ghana,2014,Christian
+Ghana,2015,Christian
+Ghana,2016,Christian
+Ghana,2017,Christian
+Ghana,2018,Christian
+Ghana,2019,Christian
+Ghana,2020,Christian
+Ghana,2021,Christian
+Ghana,2022,Christian
+Ghana,2023,Christian
 New Zealand,2007,No Religion
 New Zealand,2008,No Religion
 New Zealand,2009,No Religion
@@ -516,33 +516,33 @@ New Zealand,2020,No Religion
 New Zealand,2021,No Religion
 New Zealand,2022,No Religion
 New Zealand,2023,No Religion
-Canada,2012,Roman Catholic
-Canada,2013,Roman Catholic
-Canada,2014,Roman Catholic
-Canada,2015,Roman Catholic
-Canada,2016,Roman Catholic
-Canada,2017,Roman Catholic
-Canada,2018,Roman Catholic
-Canada,2019,Roman Catholic
-Canada,2020,Roman Catholic
+Canada,2012,Catholic
+Canada,2013,Catholic
+Canada,2014,Catholic
+Canada,2015,Catholic
+Canada,2016,Catholic
+Canada,2017,Catholic
+Canada,2018,Catholic
+Canada,2019,Catholic
+Canada,2020,Catholic
 Canada,2022,No Religion
 Canada,2023,No Religion
-Cook Islands,2007,Roman Catholic
-Cook Islands,2008,Roman Catholic
-Cook Islands,2009,Roman Catholic
-Cook Islands,2010,Roman Catholic
-Cook Islands,2012,Cook Islands Christian Church
-Cook Islands,2013,Cook Islands Christian Church
-Cook Islands,2014,Cook Islands Christian Church
-Cook Islands,2015,Cook Islands Christian Church
-Cook Islands,2016,Cook Islands Christian Church
-Cook Islands,2017,Cook Islands Christian Church
-Cook Islands,2018,Cook Islands Christian Church
-Cook Islands,2019,Cook Islands Christian Church
-Cook Islands,2020,Cook Islands Christian Church
-Cook Islands,2021,Cook Islands Christian Church
-Cook Islands,2022,Cook Islands Christian Church
-Cook Islands,2023,Cook Islands Christian Church
+Cook Islands,2007,Catholic
+Cook Islands,2008,Catholic
+Cook Islands,2009,Catholic
+Cook Islands,2010,Catholic
+Cook Islands,2012,Protestant
+Cook Islands,2013,Protestant
+Cook Islands,2014,Protestant
+Cook Islands,2015,Protestant
+Cook Islands,2016,Protestant
+Cook Islands,2017,Protestant
+Cook Islands,2018,Protestant
+Cook Islands,2019,Protestant
+Cook Islands,2020,Protestant
+Cook Islands,2021,Protestant
+Cook Islands,2022,Protestant
+Cook Islands,2023,Protestant
 Mexico,2011,Catholic
 Mexico,2012,Catholic
 Mexico,2013,Catholic
@@ -555,19 +555,19 @@ Mexico,2019,Catholic
 Mexico,2021,Catholic
 Mexico,2022,Catholic
 Mexico,2023,Catholic
-Brazil,2011,Roman Apostolic Catholic
-Brazil,2012,Roman Apostolic Catholic
-Brazil,2013,Roman Apostolic Catholic
-Brazil,2014,Roman Apostolic Catholic
-Brazil,2015,Roman Apostolic Catholic
-Brazil,2016,Roman Apostolic Catholic
-Brazil,2017,Roman Apostolic Catholic
-Brazil,2018,Roman Apostolic Catholic
-Brazil,2019,Roman Apostolic Catholic
-Brazil,2020,Roman Apostolic Catholic
-Brazil,2021,Roman Apostolic Catholic
-Brazil,2022,Roman Apostolic Catholic
-Brazil,2023,Roman Apostolic Catholic
+Brazil,2011,Catholic
+Brazil,2012,Catholic
+Brazil,2013,Catholic
+Brazil,2014,Catholic
+Brazil,2015,Catholic
+Brazil,2016,Catholic
+Brazil,2017,Catholic
+Brazil,2018,Catholic
+Brazil,2019,Catholic
+Brazil,2020,Catholic
+Brazil,2021,Catholic
+Brazil,2022,Catholic
+Brazil,2023,Catholic
 Myanmar,2015,Buddhist
 Myanmar,2016,Buddhist
 Myanmar,2017,Buddhist
@@ -634,40 +634,40 @@ Armenia,2019,Armenian Apostolic
 Armenia,2020,Armenian Apostolic
 Armenia,2021,Armenian Apostolic
 Armenia,2023,Armenian Apostolic
-Germany,2012,Other
-Germany,2013,Other
-Germany,2014,Other
-Germany,2015,Other
-Germany,2016,Other
-Germany,2017,Other
-Germany,2018,Other
-Germany,2019,Other
-Germany,2020,Other
-Germany,2021,Other
-Germany,2022,Other
-Germany,2023,Other
-Maldives,2015,Islam 
-Maldives,2016,Islam 
-Maldives,2017,Islam 
-Maldives,2018,Islam 
-Maldives,2019,Islam 
-Maldives,2020,Islam 
-Maldives,2021,Islam 
-Maldives,2022,Islam 
-Maldives,2023,Islam 
-British Virgin Islands,2011,Methodist
-British Virgin Islands,2012,Methodist
-British Virgin Islands,2013,Methodist
-British Virgin Islands,2014,Methodist
-British Virgin Islands,2015,Methodist
-British Virgin Islands,2016,Methodist
-British Virgin Islands,2017,Methodist
-British Virgin Islands,2018,Methodist
-British Virgin Islands,2019,Methodist
-British Virgin Islands,2020,Methodist
-British Virgin Islands,2021,Methodist
-British Virgin Islands,2022,Methodist
-British Virgin Islands,2023,Methodist
+Germany,2012,Christian
+Germany,2013,Christian
+Germany,2014,Christian
+Germany,2015,Christian
+Germany,2016,Christian
+Germany,2017,Christian
+Germany,2018,Christian
+Germany,2019,Christian
+Germany,2020,Christian
+Germany,2021,Christian
+Germany,2022,Christian
+Germany,2023,Christian
+Maldives,2015,Muslim
+Maldives,2016,Muslim
+Maldives,2017,Muslim
+Maldives,2018,Muslim
+Maldives,2019,Muslim
+Maldives,2020,Muslim
+Maldives,2021,Muslim
+Maldives,2022,Muslim
+Maldives,2023,Muslim
+British Virgin Islands,2011,Protestant
+British Virgin Islands,2012,Protestant
+British Virgin Islands,2013,Protestant
+British Virgin Islands,2014,Protestant
+British Virgin Islands,2015,Protestant
+British Virgin Islands,2016,Protestant
+British Virgin Islands,2017,Protestant
+British Virgin Islands,2018,Protestant
+British Virgin Islands,2019,Protestant
+British Virgin Islands,2020,Protestant
+British Virgin Islands,2021,Protestant
+British Virgin Islands,2022,Protestant
+British Virgin Islands,2023,Protestant
 Thailand,2011,Buddhist
 Thailand,2012,Buddhist
 Thailand,2013,Buddhist
@@ -689,17 +689,17 @@ Lao People's Democratic Republic,2020,Buddhist
 Lao People's Democratic Republic,2021,Buddhist
 Lao People's Democratic Republic,2022,Buddhist
 Lao People's Democratic Republic,2023,Buddhist
-Gibraltar,2013,Roman Catholic
-Gibraltar,2014,Roman Catholic
-Gibraltar,2015,Roman Catholic
-Gibraltar,2016,Roman Catholic
-Gibraltar,2017,Roman Catholic
-Gibraltar,2018,Roman Catholic
-Gibraltar,2019,Roman Catholic
-Gibraltar,2020,Roman Catholic
-Gibraltar,2021,Roman Catholic
-Gibraltar,2022,Roman Catholic
-Gibraltar,2023,Roman Catholic
+Gibraltar,2013,Catholic
+Gibraltar,2014,Catholic
+Gibraltar,2015,Catholic
+Gibraltar,2016,Catholic
+Gibraltar,2017,Catholic
+Gibraltar,2018,Catholic
+Gibraltar,2019,Catholic
+Gibraltar,2020,Catholic
+Gibraltar,2021,Catholic
+Gibraltar,2022,Catholic
+Gibraltar,2023,Catholic
 Jamaica,2012,No Religion
 Jamaica,2013,No Religion
 Jamaica,2014,No Religion
@@ -712,45 +712,45 @@ Jamaica,2020,No Religion
 Jamaica,2021,No Religion
 Jamaica,2022,No Religion
 Jamaica,2023,No Religion
-Norfolk Island,2007,Church of England
-Norfolk Island,2008,Church of England
-Norfolk Island,2009,Church of England
-Norfolk Island,2010,Church of England
-Norfolk Island,2012,Church of England
-Norfolk Island,2013,Church of England
-Norfolk Island,2014,Church of England
-Norfolk Island,2015,Church of England
-Norfolk Island,2016,Church of England
-Norfolk Island,2017,Church of England
-Norfolk Island,2018,Church of England
-Norfolk Island,2019,Church of England
-Norfolk Island,2020,Church of England
-Norfolk Island,2021,Church of England
-Norfolk Island,2022,Church of England
-Norfolk Island,2023,Church of England
-Czechia,2012,Unknown
-Czechia,2013,Unknown
-Czechia,2014,Unknown
-Czechia,2015,Unknown
-Czechia,2016,Unknown
-Czechia,2017,Unknown
-Czechia,2018,Unknown
-Czechia,2019,Unknown
-Czechia,2020,Unknown
+Norfolk Island,2007,Protestant
+Norfolk Island,2008,Protestant
+Norfolk Island,2009,Protestant
+Norfolk Island,2010,Protestant
+Norfolk Island,2012,Protestant
+Norfolk Island,2013,Protestant
+Norfolk Island,2014,Protestant
+Norfolk Island,2015,Protestant
+Norfolk Island,2016,Protestant
+Norfolk Island,2017,Protestant
+Norfolk Island,2018,Protestant
+Norfolk Island,2019,Protestant
+Norfolk Island,2020,Protestant
+Norfolk Island,2021,Protestant
+Norfolk Island,2022,Protestant
+Norfolk Island,2023,Protestant
+Czechia,2012,Catholic
+Czechia,2013,Catholic
+Czechia,2014,Catholic
+Czechia,2015,Catholic
+Czechia,2016,Catholic
+Czechia,2017,Catholic
+Czechia,2018,Catholic
+Czechia,2019,Catholic
+Czechia,2020,Catholic
 Czechia,2022,No Religion
 Czechia,2023,No Religion
-Cayman Islands,2011,Church of God
-Cayman Islands,2012,Church of God
-Cayman Islands,2013,Church of God
-Cayman Islands,2014,Church of God
-Cayman Islands,2015,Church of God
-Cayman Islands,2016,Church of God
-Cayman Islands,2017,Church of God
-Cayman Islands,2018,Church of God
-Cayman Islands,2019,Church of God
-Cayman Islands,2020,Church of God
-Cayman Islands,2022,Church of God
-Cayman Islands,2023,Church of God
+Cayman Islands,2011,Christian
+Cayman Islands,2012,Christian
+Cayman Islands,2013,Christian
+Cayman Islands,2014,Christian
+Cayman Islands,2015,Christian
+Cayman Islands,2016,Christian
+Cayman Islands,2017,Christian
+Cayman Islands,2018,Christian
+Cayman Islands,2019,Christian
+Cayman Islands,2020,Christian
+Cayman Islands,2022,Christian
+Cayman Islands,2023,Christian
 Rwanda,2013,Catholic
 Rwanda,2014,Catholic
 Rwanda,2015,Catholic
@@ -762,31 +762,31 @@ Rwanda,2020,Catholic
 Rwanda,2021,Catholic
 Rwanda,2022,Catholic
 Rwanda,2023,Catholic
-Vanuatu,2010,Presbyterian
-Vanuatu,2011,Presbyterian
-Vanuatu,2012,Presbyterian
-Vanuatu,2013,Presbyterian
-Vanuatu,2014,Presbyterian
-Vanuatu,2015,Presbyterian
-Vanuatu,2016,Presbyterian
-Vanuatu,2017,Presbyterian
-Vanuatu,2018,Presbyterian
-Vanuatu,2019,Presbyterian
-Vanuatu,2020,Presbyterian
-Vanuatu,2021,Presbyterian
-Vanuatu,2022,Presbyterian
-Vanuatu,2023,Presbyterian
-Poland,2012,Roman Catholic
-Poland,2013,Roman Catholic
-Poland,2014,Roman Catholic
-Poland,2015,Roman Catholic
-Poland,2016,Roman Catholic
-Poland,2017,Roman Catholic
-Poland,2018,Roman Catholic
-Poland,2019,Roman Catholic
-Poland,2020,Roman Catholic
-Poland,2022,Roman Catholic
-Poland,2023,Roman Catholic
+Vanuatu,2010,Christian
+Vanuatu,2011,Christian
+Vanuatu,2012,Christian
+Vanuatu,2013,Christian
+Vanuatu,2014,Christian
+Vanuatu,2015,Christian
+Vanuatu,2016,Christian
+Vanuatu,2017,Christian
+Vanuatu,2018,Christian
+Vanuatu,2019,Christian
+Vanuatu,2020,Christian
+Vanuatu,2021,Christian
+Vanuatu,2022,Christian
+Vanuatu,2023,Christian
+Poland,2012,Catholic
+Poland,2013,Catholic
+Poland,2014,Catholic
+Poland,2015,Catholic
+Poland,2016,Catholic
+Poland,2017,Catholic
+Poland,2018,Catholic
+Poland,2019,Catholic
+Poland,2020,Catholic
+Poland,2022,Catholic
+Poland,2023,Catholic
 Republic of Korea,2016,No Religion
 Republic of Korea,2017,No Religion
 Republic of Korea,2018,No Religion
@@ -795,22 +795,22 @@ Republic of Korea,2020,No Religion
 Republic of Korea,2021,No Religion
 Republic of Korea,2022,No Religion
 Republic of Korea,2023,No Religion
-State of Palestine,2008,Islam 
-State of Palestine,2009,Islam 
-State of Palestine,2010,Islam 
-State of Palestine,2011,Islam 
-State of Palestine,2012,Islam 
-State of Palestine,2013,Islam 
-State of Palestine,2014,Islam 
-State of Palestine,2015,Islam 
-State of Palestine,2016,Islam 
-State of Palestine,2017,Islam 
-State of Palestine,2018,Islam 
-State of Palestine,2019,Islam 
-State of Palestine,2020,Islam 
-State of Palestine,2021,Islam 
-State of Palestine,2022,Islam 
-State of Palestine,2023,Islam 
+State of Palestine,2008,Muslim
+State of Palestine,2009,Muslim
+State of Palestine,2010,Muslim
+State of Palestine,2011,Muslim
+State of Palestine,2012,Muslim
+State of Palestine,2013,Muslim
+State of Palestine,2014,Muslim
+State of Palestine,2015,Muslim
+State of Palestine,2016,Muslim
+State of Palestine,2017,Muslim
+State of Palestine,2018,Muslim
+State of Palestine,2019,Muslim
+State of Palestine,2020,Muslim
+State of Palestine,2021,Muslim
+State of Palestine,2022,Muslim
+State of Palestine,2023,Muslim
 Guinea,2015,Muslim
 Guinea,2016,Muslim
 Guinea,2017,Muslim
@@ -820,18 +820,18 @@ Guinea,2020,Muslim
 Guinea,2021,Muslim
 Guinea,2022,Muslim
 Guinea,2023,Muslim
-Liechtenstein,2011,Roman Catholic
-Liechtenstein,2012,Roman Catholic
-Liechtenstein,2013,Roman Catholic
-Liechtenstein,2014,Roman Catholic
-Liechtenstein,2016,Roman Catholic
-Liechtenstein,2017,Roman Catholic
-Liechtenstein,2018,Roman Catholic
-Liechtenstein,2019,Roman Catholic
-Liechtenstein,2020,Roman Catholic
-Liechtenstein,2021,Roman Catholic
-Liechtenstein,2022,Roman Catholic
-Liechtenstein,2023,Roman Catholic
+Liechtenstein,2011,Catholic
+Liechtenstein,2012,Catholic
+Liechtenstein,2013,Catholic
+Liechtenstein,2014,Catholic
+Liechtenstein,2016,Catholic
+Liechtenstein,2017,Catholic
+Liechtenstein,2018,Catholic
+Liechtenstein,2019,Catholic
+Liechtenstein,2020,Catholic
+Liechtenstein,2021,Catholic
+Liechtenstein,2022,Catholic
+Liechtenstein,2023,Catholic
 Kenya,2010,Protestant
 Kenya,2011,Protestant
 Kenya,2012,Protestant
@@ -885,22 +885,22 @@ Malawi,2020,Christian
 Malawi,2021,Christian
 Malawi,2022,Christian
 Malawi,2023,Christian
-Ireland,2007,Roman Catholic
-Ireland,2008,Roman Catholic
-Ireland,2009,Roman Catholic
-Ireland,2010,Roman Catholic
-Ireland,2012,Roman Catholic
-Ireland,2013,Roman Catholic
-Ireland,2014,Roman Catholic
-Ireland,2015,Roman Catholic
-Ireland,2016,Roman Catholic
-Ireland,2017,Roman Catholic
-Ireland,2018,Roman Catholic
-Ireland,2019,Roman Catholic
-Ireland,2020,Roman Catholic
-Ireland,2021,Roman Catholic
-Ireland,2022,Roman Catholic
-Ireland,2023,Roman Catholic
+Ireland,2007,Catholic
+Ireland,2008,Catholic
+Ireland,2009,Catholic
+Ireland,2010,Catholic
+Ireland,2012,Catholic
+Ireland,2013,Catholic
+Ireland,2014,Catholic
+Ireland,2015,Catholic
+Ireland,2016,Catholic
+Ireland,2017,Catholic
+Ireland,2018,Catholic
+Ireland,2019,Catholic
+Ireland,2020,Catholic
+Ireland,2021,Catholic
+Ireland,2022,Catholic
+Ireland,2023,Catholic
 Croatia,2012,Catholic
 Croatia,2013,Catholic
 Croatia,2014,Catholic
@@ -932,15 +932,15 @@ Viet Nam,2020,No Religion
 Viet Nam,2021,No Religion
 Viet Nam,2022,No Religion
 Viet Nam,2023,No Religion
-Georgia,2015,Christian Orthodox
-Georgia,2016,Christian Orthodox
-Georgia,2017,Christian Orthodox
-Georgia,2018,Christian Orthodox
-Georgia,2019,Christian Orthodox
-Georgia,2020,Christian Orthodox
-Georgia,2021,Christian Orthodox
-Georgia,2022,Christian Orthodox
-Georgia,2023,Christian Orthodox
+Georgia,2015,Christian
+Georgia,2016,Christian
+Georgia,2017,Christian
+Georgia,2018,Christian
+Georgia,2019,Christian
+Georgia,2020,Christian
+Georgia,2021,Christian
+Georgia,2022,Christian
+Georgia,2023,Christian
 Cyprus,2022,Orthodox
 Cyprus,2023,Orthodox
 United Kingdom of Great Britain and Northern Ireland,2012,Christian
@@ -966,31 +966,31 @@ Portugal,2019,Catholic
 Portugal,2020,Catholic
 Portugal,2022,Catholic
 Portugal,2023,Catholic
-Barbados,2011,Anglican
-Barbados,2012,Anglican
-Barbados,2013,Anglican
-Barbados,2014,Anglican
-Barbados,2015,Anglican
-Barbados,2016,Anglican
-Barbados,2017,Anglican
-Barbados,2018,Anglican
-Barbados,2019,Anglican
-Barbados,2020,Anglican
-Barbados,2021,Anglican
-Barbados,2022,Anglican
-Barbados,2023,Anglican
-Bahamas,2011,Baptist
-Bahamas,2012,Baptist
-Bahamas,2013,Baptist
-Bahamas,2014,Baptist
-Bahamas,2015,Baptist
-Bahamas,2016,Baptist
-Bahamas,2017,Baptist
-Bahamas,2018,Baptist
-Bahamas,2019,Baptist
-Bahamas,2020,Baptist
-Bahamas,2021,Baptist
-Bahamas,2023,Baptist
+Barbados,2011,Protestant
+Barbados,2012,Protestant
+Barbados,2013,Protestant
+Barbados,2014,Protestant
+Barbados,2015,Protestant
+Barbados,2016,Protestant
+Barbados,2017,Protestant
+Barbados,2018,Protestant
+Barbados,2019,Protestant
+Barbados,2020,Protestant
+Barbados,2021,Protestant
+Barbados,2022,Protestant
+Barbados,2023,Protestant
+Bahamas,2011,Protestant
+Bahamas,2012,Protestant
+Bahamas,2013,Protestant
+Bahamas,2014,Protestant
+Bahamas,2015,Protestant
+Bahamas,2016,Protestant
+Bahamas,2017,Protestant
+Bahamas,2018,Protestant
+Bahamas,2019,Protestant
+Bahamas,2020,Protestant
+Bahamas,2021,Protestant
+Bahamas,2023,Protestant
 Kiribati,2011,Catholic
 Kiribati,2012,Catholic
 Kiribati,2013,Catholic
@@ -1047,38 +1047,38 @@ Estonia,2022,No Religion
 Estonia,2023,No Religion
 North Macedonia,2022,Orthodox
 North Macedonia,2023,Orthodox
-Kazakhstan,2010,Islam 
-Kazakhstan,2011,Islam 
-Kazakhstan,2012,Islam 
-Kazakhstan,2013,Islam 
-Kazakhstan,2014,Islam 
-Kazakhstan,2015,Islam 
-Kazakhstan,2016,Islam 
-Kazakhstan,2017,Islam 
-Kazakhstan,2018,Islam 
-Kazakhstan,2019,Islam 
-Kazakhstan,2020,Islam 
-Kazakhstan,2022,Islam 
-Kazakhstan,2023,Islam 
-Hungary,2012,Roman Catholic
-Hungary,2013,Roman Catholic
-Hungary,2014,Roman Catholic
-Hungary,2015,Roman Catholic
-Hungary,2016,Roman Catholic
-Hungary,2017,Roman Catholic
-Hungary,2018,Roman Catholic
-Hungary,2019,Roman Catholic
-Hungary,2020,Roman Catholic
-Hungary,2021,Roman Catholic
-Hungary,2023,Not Declared
+Kazakhstan,2010,Muslim
+Kazakhstan,2011,Muslim
+Kazakhstan,2012,Muslim
+Kazakhstan,2013,Muslim
+Kazakhstan,2014,Muslim
+Kazakhstan,2015,Muslim
+Kazakhstan,2016,Muslim
+Kazakhstan,2017,Muslim
+Kazakhstan,2018,Muslim
+Kazakhstan,2019,Muslim
+Kazakhstan,2020,Muslim
+Kazakhstan,2022,Muslim
+Kazakhstan,2023,Muslim
+Hungary,2012,Catholic
+Hungary,2013,Catholic
+Hungary,2014,Catholic
+Hungary,2015,Catholic
+Hungary,2016,Catholic
+Hungary,2017,Catholic
+Hungary,2018,Catholic
+Hungary,2019,Catholic
+Hungary,2020,Catholic
+Hungary,2021,Catholic
+Hungary,2023,Catholic
 Bangladesh,2023,Muslim
-Samoa,2017,Congregational
-Samoa,2018,Congregational
-Samoa,2019,Congregational
-Samoa,2020,Congregational
-Samoa,2021,Congregational
-Samoa,2022,Congregational
-Samoa,2023,Congregational
+Samoa,2017,Protestant
+Samoa,2018,Protestant
+Samoa,2019,Protestant
+Samoa,2020,Protestant
+Samoa,2021,Protestant
+Samoa,2022,Protestant
+Samoa,2023,Protestant
 Singapore,2011,Buddhist
 Singapore,2012,Buddhist
 Singapore,2013,Buddhist
@@ -1102,18 +1102,18 @@ Romania,2019,Orthodox
 Romania,2020,Orthodox
 Romania,2022,Orthodox
 Romania,2023,Orthodox
-Trinidad and Tobago,2012,Roman Catholic
-Trinidad and Tobago,2013,Roman Catholic
-Trinidad and Tobago,2014,Roman Catholic
-Trinidad and Tobago,2015,Roman Catholic
-Trinidad and Tobago,2016,Roman Catholic
-Trinidad and Tobago,2017,Roman Catholic
-Trinidad and Tobago,2018,Roman Catholic
-Trinidad and Tobago,2019,Roman Catholic
-Trinidad and Tobago,2020,Roman Catholic
-Trinidad and Tobago,2021,Roman Catholic
-Trinidad and Tobago,2022,Roman Catholic
-Trinidad and Tobago,2023,Roman Catholic
+Trinidad and Tobago,2012,Catholic
+Trinidad and Tobago,2013,Catholic
+Trinidad and Tobago,2014,Catholic
+Trinidad and Tobago,2015,Catholic
+Trinidad and Tobago,2016,Catholic
+Trinidad and Tobago,2017,Catholic
+Trinidad and Tobago,2018,Catholic
+Trinidad and Tobago,2019,Catholic
+Trinidad and Tobago,2020,Catholic
+Trinidad and Tobago,2021,Catholic
+Trinidad and Tobago,2022,Catholic
+Trinidad and Tobago,2023,Catholic
 Peru,2008,Catholic
 Peru,2009,Catholic
 Peru,2010,Catholic
@@ -1129,62 +1129,62 @@ Peru,2020,Catholic
 Peru,2021,Catholic
 Peru,2022,Catholic
 Peru,2023,Catholic
-Serbia,2012,Serbian Orthodox
-Serbia,2013,Serbian Orthodox
-Serbia,2014,Serbian Orthodox
-Serbia,2015,Serbian Orthodox
-Serbia,2016,Serbian Orthodox
-Serbia,2017,Serbian Orthodox
-Serbia,2018,Serbian Orthodox
-Serbia,2019,Serbian Orthodox
-Serbia,2020,Serbian Orthodox
-Serbia,2021,Serbian Orthodox
-Serbia,2023,Serbian Orthodox
-Niue,2018,Ekalesia Niue
-Niue,2019,Ekalesia Niue
-Niue,2020,Ekalesia Niue
-Niue,2021,Ekalesia Niue
-Niue,2022,Ekalesia Niue
-Niue,2023,Ekalesia Niue
-Montenegro,2012,Christian Orthodox
-Montenegro,2013,Christian Orthodox
-Montenegro,2014,Christian Orthodox
-Montenegro,2015,Christian Orthodox
-Montenegro,2016,Christian Orthodox
-Montenegro,2017,Christian Orthodox
-Montenegro,2018,Christian Orthodox
-Montenegro,2019,Christian Orthodox
-Montenegro,2020,Christian Orthodox
-Montenegro,2021,Christian Orthodox
-Montenegro,2022,Christian Orthodox
-Montenegro,2023,Christian Orthodox
-Switzerland,2012,Roman Catholic
-Switzerland,2013,Roman Catholic
-Switzerland,2014,Roman Catholic
-Switzerland,2015,Roman Catholic
-Switzerland,2016,Roman Catholic
-Switzerland,2017,Roman Catholic
-Switzerland,2018,Roman Catholic
-Switzerland,2019,Roman Catholic
-Switzerland,2021,Roman Catholic
-Switzerland,2022,Roman Catholic
-Switzerland,2023,Roman Catholic
-Fiji,2008,Methodist
-Fiji,2009,Methodist
-Fiji,2010,Methodist
-Fiji,2011,Methodist
-Fiji,2012,Methodist
-Fiji,2013,Methodist
-Fiji,2014,Methodist
-Fiji,2015,Methodist
-Fiji,2016,Methodist
-Fiji,2017,Methodist
-Fiji,2018,Methodist
-Fiji,2019,Methodist
-Fiji,2020,Methodist
-Fiji,2021,Methodist
-Fiji,2022,Methodist
-Fiji,2023,Methodist
+Serbia,2012,Orthodox
+Serbia,2013,Orthodox
+Serbia,2014,Orthodox
+Serbia,2015,Orthodox
+Serbia,2016,Orthodox
+Serbia,2017,Orthodox
+Serbia,2018,Orthodox
+Serbia,2019,Orthodox
+Serbia,2020,Orthodox
+Serbia,2021,Orthodox
+Serbia,2023,Orthodox
+Niue,2018,Protestant
+Niue,2019,Protestant
+Niue,2020,Protestant
+Niue,2021,Protestant
+Niue,2022,Protestant
+Niue,2023,Protestant
+Montenegro,2012,Christian
+Montenegro,2013,Christian
+Montenegro,2014,Christian
+Montenegro,2015,Christian
+Montenegro,2016,Christian
+Montenegro,2017,Christian
+Montenegro,2018,Christian
+Montenegro,2019,Christian
+Montenegro,2020,Christian
+Montenegro,2021,Christian
+Montenegro,2022,Christian
+Montenegro,2023,Christian
+Switzerland,2012,Catholic
+Switzerland,2013,Catholic
+Switzerland,2014,Catholic
+Switzerland,2015,Catholic
+Switzerland,2016,Catholic
+Switzerland,2017,Catholic
+Switzerland,2018,Catholic
+Switzerland,2019,Catholic
+Switzerland,2021,Catholic
+Switzerland,2022,Catholic
+Switzerland,2023,Catholic
+Fiji,2008,Christian
+Fiji,2009,Christian
+Fiji,2010,Christian
+Fiji,2011,Christian
+Fiji,2012,Christian
+Fiji,2013,Christian
+Fiji,2014,Christian
+Fiji,2015,Christian
+Fiji,2016,Christian
+Fiji,2017,Christian
+Fiji,2018,Christian
+Fiji,2019,Christian
+Fiji,2020,Christian
+Fiji,2021,Christian
+Fiji,2022,Christian
+Fiji,2023,Christian
 Niger,2013,Muslim
 Niger,2014,Muslim
 Niger,2015,Muslim
@@ -1196,14 +1196,46 @@ Niger,2020,Muslim
 Niger,2021,Muslim
 Niger,2022,Muslim
 Niger,2023,Muslim
-Brunei Darussalam,2012,Muslim
-Brunei Darussalam,2013,Muslim
-Brunei Darussalam,2014,Muslim
-Brunei Darussalam,2015,Muslim
-Brunei Darussalam,2016,Muslim
-Brunei Darussalam,2017,Muslim
-Brunei Darussalam,2018,Muslim
-Brunei Darussalam,2019,Muslim
-Brunei Darussalam,2020,Muslim
-Brunei Darussalam,2022,Muslim
-Brunei Darussalam,2023,Muslim
+Brunei,2012,Muslim
+Brunei,2013,Muslim
+Brunei,2014,Muslim
+Brunei,2015,Muslim
+Brunei,2016,Muslim
+Brunei,2017,Muslim
+Brunei,2018,Muslim
+Brunei,2019,Muslim
+Brunei,2020,Muslim
+Brunei,2022,Muslim
+Brunei,2023,Muslim
+Afghanistan,2012,Muslim
+Afghanistan,2013,Muslim
+Afghanistan,2014,Muslim
+Afghanistan,2015,Muslim
+Afghanistan,2016,Muslim
+Afghanistan,2017,Muslim
+Afghanistan,2018,Muslim
+Afghanistan,2019,Muslim
+Afghanistan,2020,Muslim
+Afghanistan,2021,Muslim
+Afghanistan,2022,Muslim
+Afghanistan,2023,Muslim
+Algeria,2011,Muslim
+Andorra,2011,Catholic
+Angola,2011,Christian
+Argentina,2011,Catholic
+Austria,2011,Catholic
+Azerbaijan,2011,Muslim
+Belarus,2011,Orthodox
+Belgium,2011,Catholic
+Bermuda,2011,Protestant
+Bolivia,2011,Catholic
+Bosnia And Herzegovina,2011,Muslim
+Cameroon,2011,Christian
+Chili,2011,Christian
+China,2011,Buddhist
+Colombia,2011,Catholic
+Costa Rica,2011,Catholic
+Denmark,2011,Lutheran
+Dominican Republic,2011,Catholic
+Ecuador,2011,Catholic
+Egypt,2011,Muslim

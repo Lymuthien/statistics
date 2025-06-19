@@ -22,6 +22,9 @@ class ReligiousDf(object):
 
         self.df = religion_country_df
 
+    def change_value_in_column(self, column: str, old_value: str, new_value: str):
+        self.df[column] = self.df[column].replace(old_value, new_value)
+
     def fill_years(self):
         new_df = self.df.copy()
 
@@ -87,5 +90,6 @@ class GDPDf(object):
 if __name__ == "__main__":
     t = pd.read_csv("religious.csv", sep=",")
     r = ReligiousDf(t)
+    # r.change_value_in_column("Religion", "Roman Apostolic Catholic", "Roman Catholic")
     r.fill_years()
     r.df.to_csv("religious.csv", index=False)
