@@ -88,7 +88,7 @@ class GDPDf(object):
 
 
 if __name__ == "__main__":
-    t = pd.read_csv("religious.csv", sep=",")
+    t = pd.read_csv("../data/religious.csv", sep=",")
     r = ReligiousDf(t)
     # r.change_value_in_column("Religion", "Roman Apostolic Catholic", "Roman Catholic")
     r.fill_years()

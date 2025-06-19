@@ -4,9 +4,9 @@ Croatia,2021,Catholic
 Burkina Faso,2006,Muslim
 Peru,2007,Catholic
 Peru,2017,Catholic
-Iran (Islamic Republic of),2006,Muslim
-Iran (Islamic Republic of),2011,Muslim
-Iran (Islamic Republic of),2016,Muslim
+Iran,2006,Muslim
+Iran,2011,Muslim
+Iran,2016,Muslim
 Belize,2010,Catholic
 Cook Islands,2006,Catholic
 Cook Islands,2011,Protestant
@@ -46,11 +46,11 @@ Czechia,2011,Catholic
 Czechia,2021,No Religion
 Philippines,2015,Catholic
 Philippines,2020,Catholic
-United Kingdom of Great Britain and Northern Ireland,2011,Christian
+United Kingdom,2011,Christian
 Pakistan,2017,Muslim
 Samoa,2016,Protestant
-Lao People's Democratic Republic,2015,Buddhist
-Viet Nam,2019,No Religion
+Laos,2015,Buddhist
+Vietnam,2019,No Religion
 British Virgin Islands,2010,Protestant
 North Macedonia,2021,Orthodox
 Côte d'Ivoire,2014,Muslim
@@ -76,7 +76,7 @@ Mozambique,2017,Catholic
 New Zealand,2006,No Religion
 New Zealand,2013,No Religion
 New Zealand,2018,No Religion
-Republic of Moldova,2014,Orthodox
+Moldova,2014,Orthodox
 Singapore,2010,Buddhist
 Singapore,2020,Buddhist
 Maldives,2014,Muslim
@@ -111,7 +111,7 @@ Mexico,2020,Catholic
 Portugal,2011,Catholic
 Portugal,2021,Catholic
 Liberia,2008,Christian
-State of Palestine,2007,Muslim
+Palestine,2007,Muslim
 Myanmar,2014,Buddhist
 Kiribati,2010,Catholic
 Kiribati,2015,Catholic
@@ -577,21 +577,21 @@ Myanmar,2020,Buddhist
 Myanmar,2021,Buddhist
 Myanmar,2022,Buddhist
 Myanmar,2023,Buddhist
-Iran (Islamic Republic of),2007,Muslim
-Iran (Islamic Republic of),2008,Muslim
-Iran (Islamic Republic of),2009,Muslim
-Iran (Islamic Republic of),2010,Muslim
-Iran (Islamic Republic of),2012,Muslim
-Iran (Islamic Republic of),2013,Muslim
-Iran (Islamic Republic of),2014,Muslim
-Iran (Islamic Republic of),2015,Muslim
-Iran (Islamic Republic of),2017,Muslim
-Iran (Islamic Republic of),2018,Muslim
-Iran (Islamic Republic of),2019,Muslim
-Iran (Islamic Republic of),2020,Muslim
-Iran (Islamic Republic of),2021,Muslim
-Iran (Islamic Republic of),2022,Muslim
-Iran (Islamic Republic of),2023,Muslim
+Iran,2007,Muslim
+Iran,2008,Muslim
+Iran,2009,Muslim
+Iran,2010,Muslim
+Iran,2012,Muslim
+Iran,2013,Muslim
+Iran,2014,Muslim
+Iran,2015,Muslim
+Iran,2017,Muslim
+Iran,2018,Muslim
+Iran,2019,Muslim
+Iran,2020,Muslim
+Iran,2021,Muslim
+Iran,2022,Muslim
+Iran,2023,Muslim
 Mauritius,2012,Hindu
 Mauritius,2013,Hindu
 Mauritius,2014,Hindu
@@ -681,14 +681,14 @@ Thailand,2020,Buddhist
 Thailand,2021,Buddhist
 Thailand,2022,Buddhist
 Thailand,2023,Buddhist
-Lao People's Democratic Republic,2016,Buddhist
-Lao People's Democratic Republic,2017,Buddhist
-Lao People's Democratic Republic,2018,Buddhist
-Lao People's Democratic Republic,2019,Buddhist
-Lao People's Democratic Republic,2020,Buddhist
-Lao People's Democratic Republic,2021,Buddhist
-Lao People's Democratic Republic,2022,Buddhist
-Lao People's Democratic Republic,2023,Buddhist
+Laos,2016,Buddhist
+Laos,2017,Buddhist
+Laos,2018,Buddhist
+Laos,2019,Buddhist
+Laos,2020,Buddhist
+Laos,2021,Buddhist
+Laos,2022,Buddhist
+Laos,2023,Buddhist
 Gibraltar,2013,Catholic
 Gibraltar,2014,Catholic
 Gibraltar,2015,Catholic
@@ -795,22 +795,22 @@ Republic of Korea,2020,No Religion
 Republic of Korea,2021,No Religion
 Republic of Korea,2022,No Religion
 Republic of Korea,2023,No Religion
-State of Palestine,2008,Muslim
-State of Palestine,2009,Muslim
-State of Palestine,2010,Muslim
-State of Palestine,2011,Muslim
-State of Palestine,2012,Muslim
-State of Palestine,2013,Muslim
-State of Palestine,2014,Muslim
-State of Palestine,2015,Muslim
-State of Palestine,2016,Muslim
-State of Palestine,2017,Muslim
-State of Palestine,2018,Muslim
-State of Palestine,2019,Muslim
-State of Palestine,2020,Muslim
-State of Palestine,2021,Muslim
-State of Palestine,2022,Muslim
-State of Palestine,2023,Muslim
+Palestine,2008,Muslim
+Palestine,2009,Muslim
+Palestine,2010,Muslim
+Palestine,2011,Muslim
+Palestine,2012,Muslim
+Palestine,2013,Muslim
+Palestine,2014,Muslim
+Palestine,2015,Muslim
+Palestine,2016,Muslim
+Palestine,2017,Muslim
+Palestine,2018,Muslim
+Palestine,2019,Muslim
+Palestine,2020,Muslim
+Palestine,2021,Muslim
+Palestine,2022,Muslim
+Palestine,2023,Muslim
 Guinea,2015,Muslim
 Guinea,2016,Muslim
 Guinea,2017,Muslim
@@ -928,10 +928,10 @@ Ethiopia,2020,Orthodox
 Ethiopia,2021,Orthodox
 Ethiopia,2022,Orthodox
 Ethiopia,2023,Orthodox
-Viet Nam,2020,No Religion
-Viet Nam,2021,No Religion
-Viet Nam,2022,No Religion
-Viet Nam,2023,No Religion
+Vietnam,2020,No Religion
+Vietnam,2021,No Religion
+Vietnam,2022,No Religion
+Vietnam,2023,No Religion
 Georgia,2015,Christian
 Georgia,2016,Christian
 Georgia,2017,Christian
@@ -943,18 +943,18 @@ Georgia,2022,Christian
 Georgia,2023,Christian
 Cyprus,2022,Orthodox
 Cyprus,2023,Orthodox
-United Kingdom of Great Britain and Northern Ireland,2012,Christian
-United Kingdom of Great Britain and Northern Ireland,2013,Christian
-United Kingdom of Great Britain and Northern Ireland,2014,Christian
-United Kingdom of Great Britain and Northern Ireland,2015,Christian
-United Kingdom of Great Britain and Northern Ireland,2016,Christian
-United Kingdom of Great Britain and Northern Ireland,2017,Christian
-United Kingdom of Great Britain and Northern Ireland,2018,Christian
-United Kingdom of Great Britain and Northern Ireland,2019,Christian
-United Kingdom of Great Britain and Northern Ireland,2020,Christian
-United Kingdom of Great Britain and Northern Ireland,2021,Christian
-United Kingdom of Great Britain and Northern Ireland,2022,Christian
-United Kingdom of Great Britain and Northern Ireland,2023,Christian
+United Kingdom,2012,Christian
+United Kingdom,2013,Christian
+United Kingdom,2014,Christian
+United Kingdom,2015,Christian
+United Kingdom,2016,Christian
+United Kingdom,2017,Christian
+United Kingdom,2018,Christian
+United Kingdom,2019,Christian
+United Kingdom,2020,Christian
+United Kingdom,2021,Christian
+United Kingdom,2022,Christian
+United Kingdom,2023,Christian
 Portugal,2012,Catholic
 Portugal,2013,Catholic
 Portugal,2014,Catholic
@@ -1003,15 +1003,15 @@ Kiribati,2020,Catholic
 Kiribati,2021,Catholic
 Kiribati,2022,Catholic
 Kiribati,2023,Catholic
-Republic of Moldova,2015,Orthodox
-Republic of Moldova,2016,Orthodox
-Republic of Moldova,2017,Orthodox
-Republic of Moldova,2018,Orthodox
-Republic of Moldova,2019,Orthodox
-Republic of Moldova,2020,Orthodox
-Republic of Moldova,2021,Orthodox
-Republic of Moldova,2022,Orthodox
-Republic of Moldova,2023,Orthodox
+Moldova,2015,Orthodox
+Moldova,2016,Orthodox
+Moldova,2017,Orthodox
+Moldova,2018,Orthodox
+Moldova,2019,Orthodox
+Moldova,2020,Orthodox
+Moldova,2021,Orthodox
+Moldova,2022,Orthodox
+Moldova,2023,Orthodox
 Sri Lanka,2013,Buddhist
 Sri Lanka,2014,Buddhist
 Sri Lanka,2015,Buddhist
@@ -1239,3 +1239,906 @@ Denmark,2011,Lutheran
 Dominican Republic,2011,Catholic
 Ecuador,2011,Catholic
 Egypt,2011,Muslim
+El Salvadore,2011,Catholic
+Faroe Islands,2011,Lutheran
+France,2011,Catholic
+Greece,2011,Orthodox
+Guatemala,2011,Christian
+Guyana,2011,Christian
+Haiti,2011,Catholic
+Honduras,2011,Christian
+Iceland,2011,Lutheran
+India,2011,Hindu
+Iraq,2011,Muslim
+Italy,2011,Catholic
+Japan,2011,Buddhist
+Jordan,2011,Muslim
+Kosovo,2011,Muslim
+Kuwait,2011,Muslim
+Kyrgyzstan,2011,Muslim
+Latvia,2011,Christian
+Lebanon,2011,Muslim
+Libya,2011,Muslim
+Luxembourg,2011,Catholic
+Malta,2011,Catholic
+Morocco,2011,Muslim
+Namibia,2011,Christian
+Netherlands,2011,Christian
+Nicaragua,2011,Christian
+Norway,2011,Lutheran
+Oman,2011,Muslim
+Panama,2011,Catholic
+Papua New Guinea,2011,Christian
+Paraguay,2011,Catholic
+Puerto Rico,2011,Catholic
+Qatar,2011,Muslim
+Saudi Arabia,2011,Muslim
+Slovenia,2011,Catholic
+Somalia,2011,Muslim
+South Africa,2011,Christian
+South Sudan,2011,Christian
+Spain,2011,Catholic
+Sudan,2011,Muslim
+Sweden,2011,Lutheran
+Syria,2011,Muslim
+Tunisia,2011,Muslim
+Turkey,2011,Muslim
+Turkmenistan,2011,Muslim
+Uganda,2011,Christian
+Ukraine,2011,Orthodox
+United Arab Emirates,2011,Muslim
+United States,2011,Christian
+Uruguay,2011,Catholic
+Uzbekistan,2011,Muslim
+Honduras,2012,Christian
+Honduras,2013,Christian
+Honduras,2014,Christian
+Honduras,2015,Christian
+Honduras,2016,Christian
+Honduras,2017,Christian
+Honduras,2018,Christian
+Honduras,2019,Christian
+Honduras,2020,Christian
+Honduras,2021,Christian
+Honduras,2022,Christian
+Honduras,2023,Christian
+Tunisia,2012,Muslim
+Tunisia,2013,Muslim
+Tunisia,2014,Muslim
+Tunisia,2015,Muslim
+Tunisia,2016,Muslim
+Tunisia,2017,Muslim
+Tunisia,2018,Muslim
+Tunisia,2019,Muslim
+Tunisia,2020,Muslim
+Tunisia,2021,Muslim
+Tunisia,2022,Muslim
+Tunisia,2023,Muslim
+Argentina,2012,Catholic
+Argentina,2013,Catholic
+Argentina,2014,Catholic
+Argentina,2015,Catholic
+Argentina,2016,Catholic
+Argentina,2017,Catholic
+Argentina,2018,Catholic
+Argentina,2019,Catholic
+Argentina,2020,Catholic
+Argentina,2021,Catholic
+Argentina,2022,Catholic
+Argentina,2023,Catholic
+Dominican Republic,2012,Catholic
+Dominican Republic,2013,Catholic
+Dominican Republic,2014,Catholic
+Dominican Republic,2015,Catholic
+Dominican Republic,2016,Catholic
+Dominican Republic,2017,Catholic
+Dominican Republic,2018,Catholic
+Dominican Republic,2019,Catholic
+Dominican Republic,2020,Catholic
+Dominican Republic,2021,Catholic
+Dominican Republic,2022,Catholic
+Dominican Republic,2023,Catholic
+South Africa,2012,Christian
+South Africa,2013,Christian
+South Africa,2014,Christian
+South Africa,2015,Christian
+South Africa,2016,Christian
+South Africa,2017,Christian
+South Africa,2018,Christian
+South Africa,2019,Christian
+South Africa,2020,Christian
+South Africa,2021,Christian
+South Africa,2022,Christian
+South Africa,2023,Christian
+Egypt,2012,Muslim
+Egypt,2013,Muslim
+Egypt,2014,Muslim
+Egypt,2015,Muslim
+Egypt,2016,Muslim
+Egypt,2017,Muslim
+Egypt,2018,Muslim
+Egypt,2019,Muslim
+Egypt,2020,Muslim
+Egypt,2021,Muslim
+Egypt,2022,Muslim
+Egypt,2023,Muslim
+Bermuda,2012,Protestant
+Bermuda,2013,Protestant
+Bermuda,2014,Protestant
+Bermuda,2015,Protestant
+Bermuda,2016,Protestant
+Bermuda,2017,Protestant
+Bermuda,2018,Protestant
+Bermuda,2019,Protestant
+Bermuda,2020,Protestant
+Bermuda,2021,Protestant
+Bermuda,2022,Protestant
+Bermuda,2023,Protestant
+Turkey,2012,Muslim
+Turkey,2013,Muslim
+Turkey,2014,Muslim
+Turkey,2015,Muslim
+Turkey,2016,Muslim
+Turkey,2017,Muslim
+Turkey,2018,Muslim
+Turkey,2019,Muslim
+Turkey,2020,Muslim
+Turkey,2021,Muslim
+Turkey,2022,Muslim
+Turkey,2023,Muslim
+Cameroon,2012,Christian
+Cameroon,2013,Christian
+Cameroon,2014,Christian
+Cameroon,2015,Christian
+Cameroon,2016,Christian
+Cameroon,2017,Christian
+Cameroon,2018,Christian
+Cameroon,2019,Christian
+Cameroon,2020,Christian
+Cameroon,2021,Christian
+Cameroon,2022,Christian
+Cameroon,2023,Christian
+Kosovo,2012,Muslim
+Kosovo,2013,Muslim
+Kosovo,2014,Muslim
+Kosovo,2015,Muslim
+Kosovo,2016,Muslim
+Kosovo,2017,Muslim
+Kosovo,2018,Muslim
+Kosovo,2019,Muslim
+Kosovo,2020,Muslim
+Kosovo,2021,Muslim
+Kosovo,2022,Muslim
+Kosovo,2023,Muslim
+Turkmenistan,2012,Muslim
+Turkmenistan,2013,Muslim
+Turkmenistan,2014,Muslim
+Turkmenistan,2015,Muslim
+Turkmenistan,2016,Muslim
+Turkmenistan,2017,Muslim
+Turkmenistan,2018,Muslim
+Turkmenistan,2019,Muslim
+Turkmenistan,2020,Muslim
+Turkmenistan,2021,Muslim
+Turkmenistan,2022,Muslim
+Turkmenistan,2023,Muslim
+Iraq,2012,Muslim
+Iraq,2013,Muslim
+Iraq,2014,Muslim
+Iraq,2015,Muslim
+Iraq,2016,Muslim
+Iraq,2017,Muslim
+Iraq,2018,Muslim
+Iraq,2019,Muslim
+Iraq,2020,Muslim
+Iraq,2021,Muslim
+Iraq,2022,Muslim
+Iraq,2023,Muslim
+Uruguay,2012,Catholic
+Uruguay,2013,Catholic
+Uruguay,2014,Catholic
+Uruguay,2015,Catholic
+Uruguay,2016,Catholic
+Uruguay,2017,Catholic
+Uruguay,2018,Catholic
+Uruguay,2019,Catholic
+Uruguay,2020,Catholic
+Uruguay,2021,Catholic
+Uruguay,2022,Catholic
+Uruguay,2023,Catholic
+Lebanon,2012,Muslim
+Lebanon,2013,Muslim
+Lebanon,2014,Muslim
+Lebanon,2015,Muslim
+Lebanon,2016,Muslim
+Lebanon,2017,Muslim
+Lebanon,2018,Muslim
+Lebanon,2019,Muslim
+Lebanon,2020,Muslim
+Lebanon,2021,Muslim
+Lebanon,2022,Muslim
+Lebanon,2023,Muslim
+Ecuador,2012,Catholic
+Ecuador,2013,Catholic
+Ecuador,2014,Catholic
+Ecuador,2015,Catholic
+Ecuador,2016,Catholic
+Ecuador,2017,Catholic
+Ecuador,2018,Catholic
+Ecuador,2019,Catholic
+Ecuador,2020,Catholic
+Ecuador,2021,Catholic
+Ecuador,2022,Catholic
+Ecuador,2023,Catholic
+Uganda,2012,Christian
+Uganda,2013,Christian
+Uganda,2014,Christian
+Uganda,2015,Christian
+Uganda,2016,Christian
+Uganda,2017,Christian
+Uganda,2018,Christian
+Uganda,2019,Christian
+Uganda,2020,Christian
+Uganda,2021,Christian
+Uganda,2022,Christian
+Uganda,2023,Christian
+Belgium,2012,Catholic
+Belgium,2013,Catholic
+Belgium,2014,Catholic
+Belgium,2015,Catholic
+Belgium,2016,Catholic
+Belgium,2017,Catholic
+Belgium,2018,Catholic
+Belgium,2019,Catholic
+Belgium,2020,Catholic
+Belgium,2021,Catholic
+Belgium,2022,Catholic
+Belgium,2023,Catholic
+Somalia,2012,Muslim
+Somalia,2013,Muslim
+Somalia,2014,Muslim
+Somalia,2015,Muslim
+Somalia,2016,Muslim
+Somalia,2017,Muslim
+Somalia,2018,Muslim
+Somalia,2019,Muslim
+Somalia,2020,Muslim
+Somalia,2021,Muslim
+Somalia,2022,Muslim
+Somalia,2023,Muslim
+Iceland,2012,Lutheran
+Iceland,2013,Lutheran
+Iceland,2014,Lutheran
+Iceland,2015,Lutheran
+Iceland,2016,Lutheran
+Iceland,2017,Lutheran
+Iceland,2018,Lutheran
+Iceland,2019,Lutheran
+Iceland,2020,Lutheran
+Iceland,2021,Lutheran
+Iceland,2022,Lutheran
+Iceland,2023,Lutheran
+Bolivia,2012,Catholic
+Bolivia,2013,Catholic
+Bolivia,2014,Catholic
+Bolivia,2015,Catholic
+Bolivia,2016,Catholic
+Bolivia,2017,Catholic
+Bolivia,2018,Catholic
+Bolivia,2019,Catholic
+Bolivia,2020,Catholic
+Bolivia,2021,Catholic
+Bolivia,2022,Catholic
+Bolivia,2023,Catholic
+Malta,2012,Catholic
+Malta,2013,Catholic
+Malta,2014,Catholic
+Malta,2015,Catholic
+Malta,2016,Catholic
+Malta,2017,Catholic
+Malta,2018,Catholic
+Malta,2019,Catholic
+Malta,2020,Catholic
+Malta,2021,Catholic
+Malta,2022,Catholic
+Malta,2023,Catholic
+Algeria,2012,Muslim
+Algeria,2013,Muslim
+Algeria,2014,Muslim
+Algeria,2015,Muslim
+Algeria,2016,Muslim
+Algeria,2017,Muslim
+Algeria,2018,Muslim
+Algeria,2019,Muslim
+Algeria,2020,Muslim
+Algeria,2021,Muslim
+Algeria,2022,Muslim
+Algeria,2023,Muslim
+Belarus,2012,Orthodox
+Belarus,2013,Orthodox
+Belarus,2014,Orthodox
+Belarus,2015,Orthodox
+Belarus,2016,Orthodox
+Belarus,2017,Orthodox
+Belarus,2018,Orthodox
+Belarus,2019,Orthodox
+Belarus,2020,Orthodox
+Belarus,2021,Orthodox
+Belarus,2022,Orthodox
+Belarus,2023,Orthodox
+Chili,2012,Christian
+Chili,2013,Christian
+Chili,2014,Christian
+Chili,2015,Christian
+Chili,2016,Christian
+Chili,2017,Christian
+Chili,2018,Christian
+Chili,2019,Christian
+Chili,2020,Christian
+Chili,2021,Christian
+Chili,2022,Christian
+Chili,2023,Christian
+Denmark,2012,Lutheran
+Denmark,2013,Lutheran
+Denmark,2014,Lutheran
+Denmark,2015,Lutheran
+Denmark,2016,Lutheran
+Denmark,2017,Lutheran
+Denmark,2018,Lutheran
+Denmark,2019,Lutheran
+Denmark,2020,Lutheran
+Denmark,2021,Lutheran
+Denmark,2022,Lutheran
+Denmark,2023,Lutheran
+Norway,2012,Lutheran
+Norway,2013,Lutheran
+Norway,2014,Lutheran
+Norway,2015,Lutheran
+Norway,2016,Lutheran
+Norway,2017,Lutheran
+Norway,2018,Lutheran
+Norway,2019,Lutheran
+Norway,2020,Lutheran
+Norway,2021,Lutheran
+Norway,2022,Lutheran
+Norway,2023,Lutheran
+Paraguay,2012,Catholic
+Paraguay,2013,Catholic
+Paraguay,2014,Catholic
+Paraguay,2015,Catholic
+Paraguay,2016,Catholic
+Paraguay,2017,Catholic
+Paraguay,2018,Catholic
+Paraguay,2019,Catholic
+Paraguay,2020,Catholic
+Paraguay,2021,Catholic
+Paraguay,2022,Catholic
+Paraguay,2023,Catholic
+Sudan,2012,Muslim
+Sudan,2013,Muslim
+Sudan,2014,Muslim
+Sudan,2015,Muslim
+Sudan,2016,Muslim
+Sudan,2017,Muslim
+Sudan,2018,Muslim
+Sudan,2019,Muslim
+Sudan,2020,Muslim
+Sudan,2021,Muslim
+Sudan,2022,Muslim
+Sudan,2023,Muslim
+Ukraine,2012,Orthodox
+Ukraine,2013,Orthodox
+Ukraine,2014,Orthodox
+Ukraine,2015,Orthodox
+Ukraine,2016,Orthodox
+Ukraine,2017,Orthodox
+Ukraine,2018,Orthodox
+Ukraine,2019,Orthodox
+Ukraine,2020,Orthodox
+Ukraine,2021,Orthodox
+Ukraine,2022,Orthodox
+Ukraine,2023,Orthodox
+Nicaragua,2012,Christian
+Nicaragua,2013,Christian
+Nicaragua,2014,Christian
+Nicaragua,2015,Christian
+Nicaragua,2016,Christian
+Nicaragua,2017,Christian
+Nicaragua,2018,Christian
+Nicaragua,2019,Christian
+Nicaragua,2020,Christian
+Nicaragua,2021,Christian
+Nicaragua,2022,Christian
+Nicaragua,2023,Christian
+Bosnia And Herzegovina,2012,Muslim
+Bosnia And Herzegovina,2013,Muslim
+Bosnia And Herzegovina,2014,Muslim
+Bosnia And Herzegovina,2015,Muslim
+Bosnia And Herzegovina,2016,Muslim
+Bosnia And Herzegovina,2017,Muslim
+Bosnia And Herzegovina,2018,Muslim
+Bosnia And Herzegovina,2019,Muslim
+Bosnia And Herzegovina,2020,Muslim
+Bosnia And Herzegovina,2021,Muslim
+Bosnia And Herzegovina,2022,Muslim
+Bosnia And Herzegovina,2023,Muslim
+France,2012,Catholic
+France,2013,Catholic
+France,2014,Catholic
+France,2015,Catholic
+France,2016,Catholic
+France,2017,Catholic
+France,2018,Catholic
+France,2019,Catholic
+France,2020,Catholic
+France,2021,Catholic
+France,2022,Catholic
+France,2023,Catholic
+Spain,2012,Catholic
+Spain,2013,Catholic
+Spain,2014,Catholic
+Spain,2015,Catholic
+Spain,2016,Catholic
+Spain,2017,Catholic
+Spain,2018,Catholic
+Spain,2019,Catholic
+Spain,2020,Catholic
+Spain,2021,Catholic
+Spain,2022,Catholic
+Spain,2023,Catholic
+Colombia,2012,Catholic
+Colombia,2013,Catholic
+Colombia,2014,Catholic
+Colombia,2015,Catholic
+Colombia,2016,Catholic
+Colombia,2017,Catholic
+Colombia,2018,Catholic
+Colombia,2019,Catholic
+Colombia,2020,Catholic
+Colombia,2021,Catholic
+Colombia,2022,Catholic
+Colombia,2023,Catholic
+Jordan,2012,Muslim
+Jordan,2013,Muslim
+Jordan,2014,Muslim
+Jordan,2015,Muslim
+Jordan,2016,Muslim
+Jordan,2017,Muslim
+Jordan,2018,Muslim
+Jordan,2019,Muslim
+Jordan,2020,Muslim
+Jordan,2021,Muslim
+Jordan,2022,Muslim
+Jordan,2023,Muslim
+Libya,2012,Muslim
+Libya,2013,Muslim
+Libya,2014,Muslim
+Libya,2015,Muslim
+Libya,2016,Muslim
+Libya,2017,Muslim
+Libya,2018,Muslim
+Libya,2019,Muslim
+Libya,2020,Muslim
+Libya,2021,Muslim
+Libya,2022,Muslim
+Libya,2023,Muslim
+Namibia,2012,Christian
+Namibia,2013,Christian
+Namibia,2014,Christian
+Namibia,2015,Christian
+Namibia,2016,Christian
+Namibia,2017,Christian
+Namibia,2018,Christian
+Namibia,2019,Christian
+Namibia,2020,Christian
+Namibia,2021,Christian
+Namibia,2022,Christian
+Namibia,2023,Christian
+Costa Rica,2012,Catholic
+Costa Rica,2013,Catholic
+Costa Rica,2014,Catholic
+Costa Rica,2015,Catholic
+Costa Rica,2016,Catholic
+Costa Rica,2017,Catholic
+Costa Rica,2018,Catholic
+Costa Rica,2019,Catholic
+Costa Rica,2020,Catholic
+Costa Rica,2021,Catholic
+Costa Rica,2022,Catholic
+Costa Rica,2023,Catholic
+United States,2012,Christian
+United States,2013,Christian
+United States,2014,Christian
+United States,2015,Christian
+United States,2016,Christian
+United States,2017,Christian
+United States,2018,Christian
+United States,2019,Christian
+United States,2020,Christian
+United States,2021,Christian
+United States,2022,Christian
+United States,2023,Christian
+United Arab Emirates,2012,Muslim
+United Arab Emirates,2013,Muslim
+United Arab Emirates,2014,Muslim
+United Arab Emirates,2015,Muslim
+United Arab Emirates,2016,Muslim
+United Arab Emirates,2017,Muslim
+United Arab Emirates,2018,Muslim
+United Arab Emirates,2019,Muslim
+United Arab Emirates,2020,Muslim
+United Arab Emirates,2021,Muslim
+United Arab Emirates,2022,Muslim
+United Arab Emirates,2023,Muslim
+Oman,2012,Muslim
+Oman,2013,Muslim
+Oman,2014,Muslim
+Oman,2015,Muslim
+Oman,2016,Muslim
+Oman,2017,Muslim
+Oman,2018,Muslim
+Oman,2019,Muslim
+Oman,2020,Muslim
+Oman,2021,Muslim
+Oman,2022,Muslim
+Oman,2023,Muslim
+Andorra,2012,Catholic
+Andorra,2013,Catholic
+Andorra,2014,Catholic
+Andorra,2015,Catholic
+Andorra,2016,Catholic
+Andorra,2017,Catholic
+Andorra,2018,Catholic
+Andorra,2019,Catholic
+Andorra,2020,Catholic
+Andorra,2021,Catholic
+Andorra,2022,Catholic
+Andorra,2023,Catholic
+Slovenia,2012,Catholic
+Slovenia,2013,Catholic
+Slovenia,2014,Catholic
+Slovenia,2015,Catholic
+Slovenia,2016,Catholic
+Slovenia,2017,Catholic
+Slovenia,2018,Catholic
+Slovenia,2019,Catholic
+Slovenia,2020,Catholic
+Slovenia,2021,Catholic
+Slovenia,2022,Catholic
+Slovenia,2023,Catholic
+India,2012,Hindu
+India,2013,Hindu
+India,2014,Hindu
+India,2015,Hindu
+India,2016,Hindu
+India,2017,Hindu
+India,2018,Hindu
+India,2019,Hindu
+India,2020,Hindu
+India,2021,Hindu
+India,2022,Hindu
+India,2023,Hindu
+Panama,2012,Catholic
+Panama,2013,Catholic
+Panama,2014,Catholic
+Panama,2015,Catholic
+Panama,2016,Catholic
+Panama,2017,Catholic
+Panama,2018,Catholic
+Panama,2019,Catholic
+Panama,2020,Catholic
+Panama,2021,Catholic
+Panama,2022,Catholic
+Panama,2023,Catholic
+Kuwait,2012,Muslim
+Kuwait,2013,Muslim
+Kuwait,2014,Muslim
+Kuwait,2015,Muslim
+Kuwait,2016,Muslim
+Kuwait,2017,Muslim
+Kuwait,2018,Muslim
+Kuwait,2019,Muslim
+Kuwait,2020,Muslim
+Kuwait,2021,Muslim
+Kuwait,2022,Muslim
+Kuwait,2023,Muslim
+Qatar,2012,Muslim
+Qatar,2013,Muslim
+Qatar,2014,Muslim
+Qatar,2015,Muslim
+Qatar,2016,Muslim
+Qatar,2017,Muslim
+Qatar,2018,Muslim
+Qatar,2019,Muslim
+Qatar,2020,Muslim
+Qatar,2021,Muslim
+Qatar,2022,Muslim
+Qatar,2023,Muslim
+Uzbekistan,2012,Muslim
+Uzbekistan,2013,Muslim
+Uzbekistan,2014,Muslim
+Uzbekistan,2015,Muslim
+Uzbekistan,2016,Muslim
+Uzbekistan,2017,Muslim
+Uzbekistan,2018,Muslim
+Uzbekistan,2019,Muslim
+Uzbekistan,2020,Muslim
+Uzbekistan,2021,Muslim
+Uzbekistan,2022,Muslim
+Uzbekistan,2023,Muslim
+Latvia,2012,Christian
+Latvia,2013,Christian
+Latvia,2014,Christian
+Latvia,2015,Christian
+Latvia,2016,Christian
+Latvia,2017,Christian
+Latvia,2018,Christian
+Latvia,2019,Christian
+Latvia,2020,Christian
+Latvia,2021,Christian
+Latvia,2022,Christian
+Latvia,2023,Christian
+Greece,2012,Orthodox
+Greece,2013,Orthodox
+Greece,2014,Orthodox
+Greece,2015,Orthodox
+Greece,2016,Orthodox
+Greece,2017,Orthodox
+Greece,2018,Orthodox
+Greece,2019,Orthodox
+Greece,2020,Orthodox
+Greece,2021,Orthodox
+Greece,2022,Orthodox
+Greece,2023,Orthodox
+Papua New Guinea,2012,Christian
+Papua New Guinea,2013,Christian
+Papua New Guinea,2014,Christian
+Papua New Guinea,2015,Christian
+Papua New Guinea,2016,Christian
+Papua New Guinea,2017,Christian
+Papua New Guinea,2018,Christian
+Papua New Guinea,2019,Christian
+Papua New Guinea,2020,Christian
+Papua New Guinea,2021,Christian
+Papua New Guinea,2022,Christian
+Papua New Guinea,2023,Christian
+Italy,2012,Catholic
+Italy,2013,Catholic
+Italy,2014,Catholic
+Italy,2015,Catholic
+Italy,2016,Catholic
+Italy,2017,Catholic
+Italy,2018,Catholic
+Italy,2019,Catholic
+Italy,2020,Catholic
+Italy,2021,Catholic
+Italy,2022,Catholic
+Italy,2023,Catholic
+Morocco,2012,Muslim
+Morocco,2013,Muslim
+Morocco,2014,Muslim
+Morocco,2015,Muslim
+Morocco,2016,Muslim
+Morocco,2017,Muslim
+Morocco,2018,Muslim
+Morocco,2019,Muslim
+Morocco,2020,Muslim
+Morocco,2021,Muslim
+Morocco,2022,Muslim
+Morocco,2023,Muslim
+Haiti,2012,Catholic
+Haiti,2013,Catholic
+Haiti,2014,Catholic
+Haiti,2015,Catholic
+Haiti,2016,Catholic
+Haiti,2017,Catholic
+Haiti,2018,Catholic
+Haiti,2019,Catholic
+Haiti,2020,Catholic
+Haiti,2021,Catholic
+Haiti,2022,Catholic
+Haiti,2023,Catholic
+Kyrgyzstan,2012,Muslim
+Kyrgyzstan,2013,Muslim
+Kyrgyzstan,2014,Muslim
+Kyrgyzstan,2015,Muslim
+Kyrgyzstan,2016,Muslim
+Kyrgyzstan,2017,Muslim
+Kyrgyzstan,2018,Muslim
+Kyrgyzstan,2019,Muslim
+Kyrgyzstan,2020,Muslim
+Kyrgyzstan,2021,Muslim
+Kyrgyzstan,2022,Muslim
+Kyrgyzstan,2023,Muslim
+Austria,2012,Catholic
+Austria,2013,Catholic
+Austria,2014,Catholic
+Austria,2015,Catholic
+Austria,2016,Catholic
+Austria,2017,Catholic
+Austria,2018,Catholic
+Austria,2019,Catholic
+Austria,2020,Catholic
+Austria,2021,Catholic
+Austria,2022,Catholic
+Austria,2023,Catholic
+El Salvadore,2012,Catholic
+El Salvadore,2013,Catholic
+El Salvadore,2014,Catholic
+El Salvadore,2015,Catholic
+El Salvadore,2016,Catholic
+El Salvadore,2017,Catholic
+El Salvadore,2018,Catholic
+El Salvadore,2019,Catholic
+El Salvadore,2020,Catholic
+El Salvadore,2021,Catholic
+El Salvadore,2022,Catholic
+El Salvadore,2023,Catholic
+Angola,2012,Christian
+Angola,2013,Christian
+Angola,2014,Christian
+Angola,2015,Christian
+Angola,2016,Christian
+Angola,2017,Christian
+Angola,2018,Christian
+Angola,2019,Christian
+Angola,2020,Christian
+Angola,2021,Christian
+Angola,2022,Christian
+Angola,2023,Christian
+Guyana,2012,Christian
+Guyana,2013,Christian
+Guyana,2014,Christian
+Guyana,2015,Christian
+Guyana,2016,Christian
+Guyana,2017,Christian
+Guyana,2018,Christian
+Guyana,2019,Christian
+Guyana,2020,Christian
+Guyana,2021,Christian
+Guyana,2022,Christian
+Guyana,2023,Christian
+Guatemala,2012,Christian
+Guatemala,2013,Christian
+Guatemala,2014,Christian
+Guatemala,2015,Christian
+Guatemala,2016,Christian
+Guatemala,2017,Christian
+Guatemala,2018,Christian
+Guatemala,2019,Christian
+Guatemala,2020,Christian
+Guatemala,2021,Christian
+Guatemala,2022,Christian
+Guatemala,2023,Christian
+Puerto Rico,2012,Catholic
+Puerto Rico,2013,Catholic
+Puerto Rico,2014,Catholic
+Puerto Rico,2015,Catholic
+Puerto Rico,2016,Catholic
+Puerto Rico,2017,Catholic
+Puerto Rico,2018,Catholic
+Puerto Rico,2019,Catholic
+Puerto Rico,2020,Catholic
+Puerto Rico,2021,Catholic
+Puerto Rico,2022,Catholic
+Puerto Rico,2023,Catholic
+Saudi Arabia,2012,Muslim
+Saudi Arabia,2013,Muslim
+Saudi Arabia,2014,Muslim
+Saudi Arabia,2015,Muslim
+Saudi Arabia,2016,Muslim
+Saudi Arabia,2017,Muslim
+Saudi Arabia,2018,Muslim
+Saudi Arabia,2019,Muslim
+Saudi Arabia,2020,Muslim
+Saudi Arabia,2021,Muslim
+Saudi Arabia,2022,Muslim
+Saudi Arabia,2023,Muslim
+Syria,2012,Muslim
+Syria,2013,Muslim
+Syria,2014,Muslim
+Syria,2015,Muslim
+Syria,2016,Muslim
+Syria,2017,Muslim
+Syria,2018,Muslim
+Syria,2019,Muslim
+Syria,2020,Muslim
+Syria,2021,Muslim
+Syria,2022,Muslim
+Syria,2023,Muslim
+Luxembourg,2012,Catholic
+Luxembourg,2013,Catholic
+Luxembourg,2014,Catholic
+Luxembourg,2015,Catholic
+Luxembourg,2016,Catholic
+Luxembourg,2017,Catholic
+Luxembourg,2018,Catholic
+Luxembourg,2019,Catholic
+Luxembourg,2020,Catholic
+Luxembourg,2021,Catholic
+Luxembourg,2022,Catholic
+Luxembourg,2023,Catholic
+Netherlands,2012,Christian
+Netherlands,2013,Christian
+Netherlands,2014,Christian
+Netherlands,2015,Christian
+Netherlands,2016,Christian
+Netherlands,2017,Christian
+Netherlands,2018,Christian
+Netherlands,2019,Christian
+Netherlands,2020,Christian
+Netherlands,2021,Christian
+Netherlands,2022,Christian
+Netherlands,2023,Christian
+China,2012,Buddhist
+China,2013,Buddhist
+China,2014,Buddhist
+China,2015,Buddhist
+China,2016,Buddhist
+China,2017,Buddhist
+China,2018,Buddhist
+China,2019,Buddhist
+China,2020,Buddhist
+China,2021,Buddhist
+China,2022,Buddhist
+China,2023,Buddhist
+Faroe Islands,2012,Lutheran
+Faroe Islands,2013,Lutheran
+Faroe Islands,2014,Lutheran
+Faroe Islands,2015,Lutheran
+Faroe Islands,2016,Lutheran
+Faroe Islands,2017,Lutheran
+Faroe Islands,2018,Lutheran
+Faroe Islands,2019,Lutheran
+Faroe Islands,2020,Lutheran
+Faroe Islands,2021,Lutheran
+Faroe Islands,2022,Lutheran
+Faroe Islands,2023,Lutheran
+Azerbaijan,2012,Muslim
+Azerbaijan,2013,Muslim
+Azerbaijan,2014,Muslim
+Azerbaijan,2015,Muslim
+Azerbaijan,2016,Muslim
+Azerbaijan,2017,Muslim
+Azerbaijan,2018,Muslim
+Azerbaijan,2019,Muslim
+Azerbaijan,2020,Muslim
+Azerbaijan,2021,Muslim
+Azerbaijan,2022,Muslim
+Azerbaijan,2023,Muslim
+Japan,2012,Buddhist
+Japan,2013,Buddhist
+Japan,2014,Buddhist
+Japan,2015,Buddhist
+Japan,2016,Buddhist
+Japan,2017,Buddhist
+Japan,2018,Buddhist
+Japan,2019,Buddhist
+Japan,2020,Buddhist
+Japan,2021,Buddhist
+Japan,2022,Buddhist
+Japan,2023,Buddhist
+South Sudan,2012,Christian
+South Sudan,2013,Christian
+South Sudan,2014,Christian
+South Sudan,2015,Christian
+South Sudan,2016,Christian
+South Sudan,2017,Christian
+South Sudan,2018,Christian
+South Sudan,2019,Christian
+South Sudan,2020,Christian
+South Sudan,2021,Christian
+South Sudan,2022,Christian
+South Sudan,2023,Christian
+Sweden,2012,Lutheran
+Sweden,2013,Lutheran
+Sweden,2014,Lutheran
+Sweden,2015,Lutheran
+Sweden,2016,Lutheran
+Sweden,2017,Lutheran
+Sweden,2018,Lutheran
+Sweden,2019,Lutheran
+Sweden,2020,Lutheran
+Sweden,2021,Lutheran
+Sweden,2022,Lutheran
+Sweden,2023,Lutheran
