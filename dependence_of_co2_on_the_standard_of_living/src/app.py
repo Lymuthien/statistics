@@ -5,26 +5,32 @@ import pandas as pd
 from .df_model import DfDependenceFactory
 from .df_plotter import DfDependencePlotter
 from .statistics_calculator import StatisticsCalculator
+from .cleaning import DataCleaner
+from .feature_engineering import FeatureEngineer
 
 
 class App(object):
     def __init__(self, directory: Path):
         self._dir: Path = directory
-        self._statistics_calculator = StatisticsCalculator()
+        self._cleaner = DataCleaner()
+        self._engineer = FeatureEngineer()
+        self._stats = StatisticsCalculator()
         self._df_factory = DfDependenceFactory()
         self._plotter = DfDependencePlotter()
-        self._dependence_dfs: dict[str, pd.DataFrame] = {}
-        self._min_year = 2012
-        self._max_year = 2025
+        self._dependence_dfs = {
+            "COL": self._df_factory.create_df(),
+            "time_in_road": self._df_factory.create_df(),
+        }
 
     def _get_merged_df(self, year: int) -> pd.DataFrame | None:
-        try:
-            col_df, pollution_df, traffic_df = self._read_df(year)
-            pol_col_df = pd.merge(pollution_df, col_df, on="City")
-            return pd.merge(pol_col_df, traffic_df, on="City")
-        except Exception as e:
-            print(f"Error reading dataframes {year}: {e}")
-            return None
+        col_df, pollution_df, traffic_df = self._read_df(year)
+
+        merged_df = pd.merge(
+            pd.merge(pollution_df, col_df, on="City"), traffic_df, on="City"
+        )
+        merged_df["Year"] = year
+
+        return merged_df
 
     def _read_df(self, year):
         col_df = pd.read_csv(
@@ -43,40 +49,53 @@ class App(object):
                 df, f"Pollution-{k} Correlation", "YEAR", "CORRELATION"
             )
 
-    def _create_dependence_df(self):
-        self._dependence_dfs["COL"] = self._df_factory.create_df()
-        self._dependence_dfs["time_in_road"] = self._df_factory.create_df()
-
     def _save_dependence_df(self):
         for k, df in self._dependence_dfs.items():
             df.to_csv(self._dir / f"pollution_{k}_dependence.csv")
 
-    def _make_tables(self):
-        for year in range(self._min_year, self._max_year + 1):
-            merged_df = self._get_merged_df(year)
-            if merged_df is None:
+    def process_year(self, year: int):
+        df = self._get_merged_df(year)
+        df = self._cleaner.clean(df)
+        df = self._engineer.add_features(df)
+
+        for dep_df, col in zip(
+            self._dependence_dfs.values(),
+            ["Local Purchasing Power Index", "Time Index"],
+        ):
+            stats = self._stats.calculate_dependence_statistics(
+                df, col, "Pollution Index", str(year)
+            )
+            dep_df.loc[len(dep_df)] = stats
+
+        return df
+
+    def _process_over_years(self, min_year, max_year):
+        all_data = []
+
+        for year in range(min_year, max_year + 1):
+            try:
+                df = self.process_year(year)
+                all_data.append(df)
+
+                # if year == self._max_year or year == self._min_year or year % 5 == 0:
+                #     for comparer_column in (
+                #         "Local Purchasing Power Index",
+                #         "Time Index",
+                #     ):
+                #         self._plotter.plot_dependence(
+                #             df=df,
+                #             comparer_column=comparer_column,
+                #             comparable_column="Pollution Index",
+                #             year=str(year),
+                #         )
+            except Exception as e:
+                print(f"Year {year} skipped due to error: {e}")
                 continue
 
-            for df, comparer_column in zip(
-                self._dependence_dfs.values(),
-                ("Local Purchasing Power Index", "Time Index"),
-            ):
-                stats = self._statistics_calculator.calculate_dependence_statistics(
-                    merged_df, comparer_column, "Pollution Index", str(year)
-                )
-                df.loc[len(df)] = stats
+        final_df = pd.concat(all_data)
+        final_df.to_csv(self._dir / "processed" / "all_data_cleaned.csv", index=False)
 
-            if year == self._max_year or year == self._min_year or year % 5 == 0:
-                for comparer_column in ("Local Purchasing Power Index", "Time Index"):
-                    self._plotter.plot_dependence(
-                        df=merged_df,
-                        comparer_column=comparer_column,
-                        comparable_column="Pollution Index",
-                        year=str(year),
-                    )
-
-    def run(self):
-        self._create_dependence_df()
-        self._make_tables()
+    def run(self, min_year: int = 2012, max_year: int = 2025):
+        self._process_over_years(min_year, max_year)
         self._save_dependence_df()
         self._plot_correlation()
