@@ -1,5 +1,5 @@
 import pandas as pd
-from scipy.stats import ttest_ind
+from scipy.stats import mannwhitneyu
 
 from .df_model import StatsRow
 
@@ -54,7 +54,7 @@ class StatisticsCalculator(object):
 
         group_high = group_high_comparer[comparable_column].dropna()
         group_low = group_low_comparer[comparable_column].dropna()
-        t_stat, p_value = ttest_ind(group_high, group_low)
+        t_stat, p_value = mannwhitneyu(group_high, group_low, alternative="two-sided")
         p_value = p_value.round(3)
 
         diff = round(abs(median_comparable_high - median_comparable_low), 3)

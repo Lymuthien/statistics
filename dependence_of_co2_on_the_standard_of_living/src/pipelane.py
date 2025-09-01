@@ -51,7 +51,9 @@ class Pipelane(object):
 
     def _save_dependence_df(self):
         for k, df in self._dependence_dfs.items():
-            df.to_csv(self._dir / f"pollution_{k}_dependence.csv")
+            df.to_csv(
+                self._dir / "processed" / f"pollution_{k}_dependence.csv", index=False
+            )
 
     def process_year(self, year: int):
         df = self._get_merged_df(year)
