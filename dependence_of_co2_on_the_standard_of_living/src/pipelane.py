@@ -9,7 +9,7 @@ from .cleaning import DataCleaner
 from .feature_engineering import FeatureEngineer
 
 
-class App(object):
+class Pipelane(object):
     def __init__(self, directory: Path):
         self._dir: Path = directory
         self._cleaner = DataCleaner()
